@@ -7,12 +7,23 @@
 }
 
 body {
-    background-color: var(--cream);
-    
-
-}
+   background-color: var(--dark);
+   color: var(--cream);
+    }
 
 * {
     margin: 0;
     padding: 0;
 }
+
+.hero {
+    background-image: url(../images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+    }
+
+.container {
+      height: 100vh;
+      
+      }
