@@ -50,11 +50,32 @@ nav li {
 }
 
 nav a {
-	text-transform: uppercase;
 	color: var(--cream);
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 25px;
 	text-decoration: none;
     font-family: 'Inter', sans-serif;
+    font-weight: 700;
 }
 
+.active {
+    border-bottom: 0.9px solid var(--cream);
+         }
+
+         nav a:hover {
+            color:var(--yellow);
+            transition: ease-in;
+            letter-spacing:0.5px;
+        }
+
+        /* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    #logo__navbar {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
