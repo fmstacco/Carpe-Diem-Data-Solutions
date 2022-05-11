@@ -144,6 +144,25 @@ nav ul li a {
 
 .container {
       height: 100vh;
+      width: 100%;
+      display: grid;
+      grid-template-columns: 50% 50%;
       
       }
 
+.headline__description {
+        font-weight: 700;
+        font-size: 48px;
+        color: var(--dark);
+        margin-bottom: 0.1em;
+       }
+
+.headline__text {
+    color: var(--dark);
+}
+
+.section__description {
+    padding-top: 200px;
+    width: 600px;
+    margin: 100px;
+}
