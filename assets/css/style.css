@@ -166,8 +166,49 @@ nav ul li a {
     margin: 100px;
 }
 
-.social__media {
+/*Footer*/
 
-
-    
+footer {
+    color: var(--cream);
+    background-color: var(--dark);
 }
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.footer-navlinks {
+display: flex;
+justify-content: center;
+margin-bottom: 16px;
+flex-grow: 1;
+height: 30px;
+}
+
+.footer-social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 16px;
+    flex-grow: 1;
+       }
+
+a { 
+    padding: 0 15px; 
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--cream);
+    text-decoration: none;
+    
+    }
+
+i {
+    cursor: pointer;
+    font-size: 30px;
+}
+
+/*footer page*/
+
