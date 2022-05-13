@@ -90,19 +90,62 @@ body {
 
   /*Footer*/
 
-  footer {
+footer {
     color: var(--cream);
     background-color: var(--dark);
-    height: 150px;
+   
   }
 .footer-container {
   display: flex;
+  flex-wrap:wrap;
   align-items: center;
   justify-content: space-around;
+  padding: 20px;
+}
+
+.footer-navsection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-navbar a {
+  display: flex;
+  flex-direction: column;
+  color: var(--cream);
+  text-decoration: none;
+  text-align: center;
+  font-size: 1em;
+
+
 
 }
 
+.footer-social-links {
+}
 
+.footer-social-links li  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+hr {
+  border-bottom: var(--cream)solid 0.3px;
+}
+
+.footer-social-links a  {
+  color: var(--cream);
+  
+}
+
+.copyright  p {
+  color: var(--cream);
+  background-color: (--dark);
+  text-align: center;
+}
 
 /*
 .footer-navbar p {
