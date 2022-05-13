@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto:wght@300&display=swap');
+
+
+:root {
+    --cream:#f8efe4;
+    --dark: #282120;
+    --yellow:#fad02c;
+    --rose: #e6c2bf;
+    --gold:#b88917;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+   background-color: var(--cream);
+   color: var(--dark);
+   font-family: Inter, sans-serif;
+
+    }
+
+    /* Header - Logo and Navigation*/
+
+   .logo-navbartop {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: var(--dark);
+    }
+
+    .nav-bar {
+        display: flex;
+    }
+   
+    .nav-bar a {
+        color: var(--cream);
+        font-weight: bold;
+        text-decoration: none;
+        margin-left: 2px;
+        font-size: 110%x;
+        padding: 10px;
+    }
+
+    a.active {
+        border-bottom: var(--cream) solid 0.5px;
+    }
+
+    a:hover { 
+        color: var(--yellow);
+         transition: ease-in;
+         letter-spacing:0.5px;
+     }
+
+
+    /*
+    header {
+        background-color: var(--dark);
+          }
+
+    .logo__navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-bar a {
+    display: flex;
+    color: var(--cream);
+}
+
+*/
+
+  /*Section About*/
+
+  .section-about {
+      height: 100vh;
+  }
+
+  .section-about-container {
+    display: flex;
+    font-size: 15px;
+    text-align: center;
+    justify-content: space-between;
+    height: 100vh;
+
+  }
+  
+  .about-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  .about-right {
+    background-color: dodgerblue;
+    padding: 10px;
+  }
+  
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+  @media (max-width: 800px) {
+    .section-about-container {
+      flex-direction: column;
+    }
+  }
