@@ -55,31 +55,7 @@ body {
      }
 
 
-    /*
-    header {
-        background-color: var(--dark);
-          }
-
-    .logo__navbar {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-.nav-bar {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.nav-bar a {
-    display: flex;
-    color: var(--cream);
-}
-
-*/
-
-  /*Section About*/
+/*Section About*/
 
   .section-about {
       height: 100vh;
@@ -110,3 +86,8 @@ body {
       flex-direction: column;
     }
   }
+
+
+  /*Footer*/
+
+  
