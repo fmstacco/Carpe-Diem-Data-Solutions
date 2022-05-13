@@ -90,4 +90,26 @@ body {
 
   /*Footer*/
 
-  
+  footer {
+    color: var(--cream);
+    background-color: var(--dark);
+    height: 150px;
+  }
+.footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+
+
+/*
+.footer-navbar p {
+    color: var(--cream);
+    text-decoration: none;
+  }
+
+  .footer-social-links {
+    footer-social-links
+  }
