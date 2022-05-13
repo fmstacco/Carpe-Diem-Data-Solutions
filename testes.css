@@ -102,13 +102,13 @@ body {
 }
 
 .about-text {
-  width: 550px;
+  width: 750px;
   padding-left: 20px;
 }
 
 .image {
-  width: 1200px;
-  height: 100vh;
+  width: 1500px;
+  height: 700px;
   max-width: 95%;
   margin: 0 auto;
   display: flex;
@@ -116,7 +116,7 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   background-color: var(--cream);
-  border-radius: 3%;
+  border-radius: 100px;
 }
 
 .about-text h1 {
@@ -133,8 +133,26 @@ body {
  .about-text p{ 
    letter-spacing: 0.5px;
    line-height: 25px ;
-   margin-bottom: 30px;
+   margin-bottom: 10px;
  } 
+
+button {
+  background-color: var(--dark);
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 13px 30px;
+  border-radius: 30px;
+  transition: .4s;
+}
+
+button:hover {
+  background-color: var(--gold);
+  border: 2px solid var(--dark);
+  cursor:pointer;
+}
+
 
   /*Footer*/
 
@@ -190,6 +208,16 @@ hr {
   background-color: (--dark);
   text-align: center;
 }
+
+  
+
+
+
+
+
+
+
+
 
 /*
 .footer-navbar p {
