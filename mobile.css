@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto:wght@300&display=swap');
+
+
+:root {
+    --cream:#f8efe4;
+    --dark: #282120;
+    --yellow:#fad02c;
+    --rose: #e6c2bf;
+    --gold:#b88917;
+}
+
+body {
+   background-color: var(--cream);
+   color: var(--dark);
+   font-family: Inter, sans-serif;
+
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+    /* Header - Logo and Navigation*/
+
+.logo-navbartop-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+
+width: 100%;
+box-sizing: border-box;
+
+padding-top: .75rem;
+padding-bottom: .75rem;
+
+border-bottom: 1px solid var(--cream);
+
+background-color: var(--dark);
+
+position: absolute;
+
+}
+
+.navbartop_logo {
+    margin-bottom: 1rem;
+}
+
+.nav-bar{
+    text-align: center;
+}
+
+.nav-bar a{ 
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--cream);
+
+    display: inline-block;
+
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .7rem;
+   
+}
+
+a.active {
+    border-bottom: var(--cream) solid 0.5px;
+}
+
+a:hover { 
+    color: var(--yellow);
+     transition: ease-in;
+     letter-spacing:0.5px;
+ }
+
+ @media screen and (min-width: 1024px) {
+    .logo-navbartop-container{
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+        border: none;
+      }
+
+      .nav-bar a{ 
+       margin-right: .7rem;
+       font-weight: bold;
+           
+    }
+
+    }
