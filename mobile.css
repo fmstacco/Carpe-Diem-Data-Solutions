@@ -38,7 +38,6 @@ border-bottom: 1px solid var(--cream);
 
 background-color: var(--dark);
 
-position: absolute;
 
 }
 
@@ -88,4 +87,45 @@ a:hover {
            
     }
 
+    }
+
+
+    /* Section About*/
+
+    .about {
+    background-color: var(--dark);
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    }
+
+    .about-container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .about-text {
+        padding-left: 1rem;
+        padding-right: 1rem;
+ }
+    .about-headline {
+        color: var(--cream);
+        font-size: 1.5rem;
+        text-align: center;
+        margin-bottom: 0.5rem;
+    }
+
+    .about-headline-2 {
+        color: var(--cream);
+        font-size: 1.15rem;
+        text-align: left;
+        margin-bottom: 0.5rem;
+    }
+
+    .about-content {
+        color: var(--cream);
+        text-align: left;
+        line-height: normal;
+        margin-bottom: 0.5rem;
+        
     }
