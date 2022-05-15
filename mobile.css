@@ -147,6 +147,25 @@ a:hover {
         
       }
 
+
+      button {
+        text-align: center;
+        background-color: var(--cream);
+        color: var(--dark);
+        text-decoration: none;
+        border: 2px solid transparent;
+        font-weight: bold;
+        padding: 0.3rem 0.5rem;
+        border-radius: 1rem;
+        transition: .4s;
+      }
+      
+      button:hover {
+        background-color: var(--gold);
+        border: 2px solid var(--dark);
+        cursor:pointer;
+      }
+
       @media screen and (min-width: 1024px) {
         #about-container {
             display: flex;
@@ -159,4 +178,52 @@ a:hover {
                     }
                 }
 
-    
+    /*Footer*/
+
+
+footer {
+    color: var(--cream);
+    background-color: var(--dark);
+     }
+     
+.footer-container {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.footer-navbar {
+  display: flex;
+}
+
+.footer-navbar a {
+  display: flex;
+  color: var(--cream);
+  text-decoration: none;
+  text-align: center;
+  }
+
+.footer-social-links li  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+hr {
+  border-bottom: var(--cream)solid 0.3px;
+}
+
+.footer-social-links a  {
+  color: var(--cream);
+  
+}
+
+.copyright  p {
+  color: var(--cream);
+  background-color: (--dark);
+  text-align: center;
+}
