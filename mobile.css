@@ -194,6 +194,7 @@ footer {
 
 #footer-logo {
     padding-top: 1rem;
+    padding-bottom: 1rem;
 
 }
 
@@ -210,8 +211,7 @@ footer {
 
   display: inline-block;
 
-  margin-right: .7rem;
-  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
   margin-left: .7rem;
 
   }
@@ -225,7 +225,6 @@ footer {
     display: block;
     width: 2.6rem;
     height: 2.6rem;
-    margin: 2rem 1rem;
 }
 
 .footer-social-links a i  {
@@ -234,8 +233,40 @@ footer {
 
 }
 
-.copyright  p {
+
+.footer-social-links a.active {
+    border-bottom: var(--cream) solid 0.5px;
+}
+
+.footer-social-links a:hover { 
+    color: var(--yellow);
+     transition: ease-in;
+     letter-spacing:0.5px;
+ }
+ 
+#copyright  p {
   color: var(--cream);
   background-color: (--dark);
   text-align: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .footer-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+                     }
+                     
+                     .footer-navbar {
+                         text-align: left;
+                         min-width: 600px;
+
+                     }
+                     #copyright  p {
+                        color: var(--cream);
+                        background-color: (--dark);
+                        text-align: center;
+                           }
+                     
+    }
