@@ -151,4 +151,9 @@ a:hover {
                     }
                 }
 
-    
+    /*Hero Section*/
+
+    #hero-image {
+        display: block; 
+        width: 100%;
+    }
