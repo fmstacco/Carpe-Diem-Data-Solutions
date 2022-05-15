@@ -90,28 +90,38 @@ a:hover {
     }
 
 
+    /*Section Hero*/
+
+
+#hero-headline{
+    padding-left: 0.5rem;
+}
+
+.hero-text {
+    padding: 0.5rem;
+
+}
+
+#hero-image {
+    display: block;
+    width: 100%;
+}
+
     /* Section About*/
 
-    .about {
-    background-color: var(--dark);
-    padding-top: 1rem;
-    padding-bottom: 3rem;
-    }
 
-    .about-container {
+   #about-container {
         display: flex;
         align-items: center;
         flex-direction: column;
+        background-color: var(--dark);
                         }
 
-    .about-text {
-        padding-left: 1rem;
-        padding-right: 1rem;
- }
+   
     .about-headline {
         color: var(--cream);
-        font-size: 1.5rem;
-        text-align: center;
+        text-align: left;
+        padding-left: 0.5rem;
         margin-bottom: 0.5rem;
     }
 
@@ -119,41 +129,34 @@ a:hover {
         color: var(--cream);
         font-size: 1.15rem;
         text-align: left;
+        padding-left: 0.5rem;
         margin-bottom: 0.5rem;
     }
 
-    .about-content {
+    .about-text {
         color: var(--cream);
         text-align: left;
         line-height: normal;
-        margin-bottom: 0.5rem;
+        padding: 0.5rem;
         
     }
 
-    .image {
-        height: 100%;
-        width: 100%;
-        max-width: 480px;
-        max-height: 270px;
+    #about-image {
+       display: block;
+       width: 100%;
         
       }
 
       @media screen and (min-width: 1024px) {
-        .about-container {
+        #about-container {
             display: flex;
             flex-direction: row-reverse;
-           
-
-            
-                    }
-                    .image {
-                        padding-left: 20rem;
+                     }
+                    
+         #about-image {
+        padding: 10rem 0 10rem 10rem;
+       
                     }
                 }
 
-    /*Hero Section*/
-
-    #hero-image {
-        display: block; 
-        width: 100%;
-    }
+    
