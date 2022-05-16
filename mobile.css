@@ -105,6 +105,18 @@ a:hover {
 #hero-image {
     display: block;
     width: 100%;
+    animation-name: hero-zoom;
+                animation-duration: 5s;
+                animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom {
+    from {
+    transform: scale(1.0);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
 
     /* Section About*/
