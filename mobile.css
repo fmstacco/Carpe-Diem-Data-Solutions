@@ -95,6 +95,9 @@ a:hover {
 
 #hero-headline{
     padding-left: 0.5rem;
+    animation-name: hero-headline;
+                animation-duration: 5s;
+                animation-fill-mode: forwards;
 }
 
 .hero-text {
@@ -105,19 +108,32 @@ a:hover {
 #hero-image {
     display: block;
     width: 100%;
-    animation-name: hero-zoom;
-                animation-duration: 5s;
-                animation-fill-mode: forwards;
+   
 }
 
-@keyframes hero-zoom {
+@keyframes hero-headline {
     from {
-    transform: scale(1.0);
+    transform: scale(0.90);
     }
     to {
-        transform: scale(1.1);
+        transform: scale(1.00);
+
     }
 }
+
+@media screen and (min-width: 1024px) {
+#hero {
+
+
+}
+
+ 
+   
+                }
+            
+
+
+
 
     /* Section About*/
 
@@ -260,6 +276,7 @@ footer {
   color: var(--cream);
   background-color: (--dark);
   text-align: center;
+
 }
 
 @media screen and (min-width: 1024px) {
