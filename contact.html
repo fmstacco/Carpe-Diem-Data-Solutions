@@ -13,17 +13,135 @@
 
 <body>
 
-   <!-- Logo and Navigation Bar-->
- <header class="logo-navbartop">
-  <a href="index.html" aria-label="Takes you to homepage"><img src="./assets/images/logo.png" alt="logo Carpe Diem Data Solutions"></a>
+   <main>
 
-   <nav class="nav-bar">
-      <a href="index.html" aria-label="Go to Home Page">Home</a>
-      <a href="about.html" aria-label="Go to About section">About</a>
-      <a href="services.html" aria-label="Go to the Services section">Services</a>
-      <a href="contact.html" aria-label="Go to Contact section" class="active">Contact</a>
-   </nav>
- </header>
+      <!-- Logo and Navigation Bar-->
+      <header class="logo-navbartop-container">
+        <a href="index.html" aria-label="Takes you to homepage"><img src="./assets/images/logo.png" alt="logo Carpe Diem Data Solutions" class="navbartop_logo"></a>
+     
+         <nav class="nav-bar">
+            <a href="index.html" aria-label="Go to Home Page">Home</a>
+            <a href="about.html" aria-label="Go to About section">About</a>
+            <a href="services.html" aria-label="Go to the Services section">Services</a>
+            <a href="contact.html" aria-label="Go to Contact section" class="active">Contact</a>
+         </nav>
+       </header>
+
+<!--Form section-->
+         
+     <section class="section-form">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+
+          <div class="container-form">
+              <div class="element-form">
+        <div>
+            <h1 id="formtitle">Book a 30 min Consultation Call</h1>
+            <p id="formsubtitle">Fill out this form and we will get in touch</p>
+            <br>
+        </div>
+
+        <form> 
+            <fieldset class="formgroup">
+                <div class="field">
+                    <label for="name"><strong>First Name</strong></label>
+                    <input type="text" name="name" id="name" required>
+                </div> 
+                    
+                <div class="field">
+                    <label for="lastname"><strong>Last Name</strong></label>
+                    <input type="text" name="lastname" id="lastname" required>
+                </div> 
+            </fieldset>
+                <div class="field">
+                    <label for="email"><strong>Email</strong></label> 
+                    <input type="email" name="email" id="email" required>
+                </div> 
+           
+                <div class="field"> 
+                    <label for ><strong>How do you assess the stage of development of your digital business?</strong></label> 
+                    <br>
+                    <br>
+                    <label><input type="radio" name="stagebusiness" value="startup" checked>Start Up</label> 
+                    <label><input type="radio" name="stagebusiness" value="emerging">Emerging</label>
+                    <label><input type="radio" name="stagebusiness" value="evolving">Evolving</label>
+                    <label><input type="radio" name="stagebusiness" value="evolving">Mature</label>
+                </div>
+                <div class="field">
+                    <label for="preferredtime"><strong>What is the preferred time to schedule a meeting</strong></label> 
+                </div> 
+                <div class="field">
+                    <select id="preferredtime">
+                    <option>Select</option>
+                    <option>Morning</option>
+                    <option>Afternoon</option>
+                    <option>Evening</option>
+                </select> 
+                </div>
+                <fieldset class="formgroup">
+                    <div class="field">
+                        <label for="digitalchannels"><strong>Which digital channels does your business actively operate in?</strong></label>
+                        <br>
+                        <br>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="website">
+                        <label for="digitalchannels">Web Site</label>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="instagram">
+                        <label for="digitalchannels">Instagram</label>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="facebook">
+                        <label for="digitalchannels">Facebook</label>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="youtube">
+                        <label for="digitalchannels">Youtube</label>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="blog">
+                        <label for="digitalchannels">Blog</label>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="emailmarketing">
+                        <label for="digitalchannels">Email Marketing</label>
+                        <input type="checkbox" id="digitalchannels" name="digitalchannels" value="none">
+                        <label for="digitalchannels">None</label>
+
+
+                    </div>
+
+
+                </fieldset>
+                    <div class="field">
+                    <br> 
+                    <label><strong>Please write here everything you think is relevant for us to know about your business, goals, additional services etc..</strong></label>    
+                    <textarea row="6" style="width: 26em" id="comment" name="comment"></textarea>     
+            </div>
+
+            <button class="formbutton" type="submit" >Submit</button>
+
+            </form>
+        </div>
+    </div>
+      </section>
+    
+       <footer>
+    
+        <div class="footer-container">
+    
+            <div id="footer-logo">
+        <a href="index.html" aria-label="Takes you to homepage"><img src="./assets/images/logo.png" alt="logo Carpe Diem Data Solutions"></a>
+        </div>
+    
+        <nav class="footer-navbar">
+            <a href="index.html" aria-label="Go to Home Page">Home</a>
+            <a href="about.html" aria-label="Go to About us section">About</a>
+            <a href="services.html" aria-label="Go to the Services section">Services</a>
+            <a href="contact.html" aria-label="Go to Contact Us section">Contact</a>
+         </nav>
+        
+        <ul class="footer-social-links">   
+            <li><a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://youtube.com" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
+            </ul>     
+        </div>
+    
+        <div id="copyright">
+        <p>&copy; 2022 - All rights reserved - Carpe Diem Data Solutions</p>
+        </div>
+        </footer>
+      </main>
  
 </body>
 <script src="https://kit.fontawesome.com/de5916a16b.js" crossorigin="anonymous"></script>
