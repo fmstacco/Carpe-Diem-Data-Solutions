@@ -1,0 +1,117 @@
+
+:root {
+    --cream:#f8efe4;
+    --dark: #282120;
+    --yellow:#fad02c;
+    --rose: #e6c2bf;
+    --gold:#b88917;
+}
+
+body {
+   background-color: var(--dark);
+   color: var(--cream);
+   font-family: Inter, sans-serif;
+
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo-navbartop-container {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-around;
+
+}
+
+.logo__navbar {
+    margin: 0.5rem;
+}
+
+
+.hamburguer__button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        background: var(--dark);
+        font-size: 30px;
+        line-height: 80px;
+    }
+
+#check {
+    display: none;
+}
+    
+ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background:var(--cream);
+        top: 120px;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
+    }
+
+    nav ul li {
+        display: flex;
+        flex-direction: column;
+        margin: 30px 0;
+        line-height: 30px;
+
+           }
+    nav ul li a {
+        font-size: 20px;
+        color: var(--dark) ;
+        text-decoration: none;
+        text-transform: uppercase;
+
+           }
+
+           a:hover { 
+            color: var(--cream);
+            transition: ease-in;
+            letter-spacing:0.5px;
+            background-color: var(--dark);
+            font-weight: bold;
+                }
+
+#check:checked ~ ul {
+    left: 0;
+
+}
+
+/*Section Hero*/
+
+
+#hero-headline{
+    padding-left: 0.5rem;
+    animation-name: hero-headline;
+                animation-duration: 5s;
+                animation-fill-mode: forwards;
+}
+
+.hero-text {
+    padding: 1rem;
+
+}
+
+#hero-image {
+    display: block;
+    width: 100%;
+   
+}
+
+@keyframes hero-headline {
+    from {
+    transform: scale(0.90);
+    }
+    to {
+        transform: scale(1.00);
+
+    }
+}

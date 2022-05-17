@@ -134,7 +134,9 @@ a:hover {
         align-items: center;
         flex-direction: column;
         background-color: var(--dark);
-                        }
+        box-sizing: border-box;
+   
+    }
 
    
     .about-headline {
@@ -225,14 +227,26 @@ a:hover {
 }
 
 @media screen and (min-width: 1024px) {
-    .services-container{
+    
+      .services-container{
         display: flex;
+        align-items: center;
         justify-content: space-around;
-        
-                 }
-
+        flex-direction: row;
+        flex-wrap: wrap;
+                        }
+   
     .services-item {
-                 }
+        width: 25%;
+        margin-bottom: 5rem;
+        margin-top: 2rem;
+
+    }
+
+    .section-services-headline {
+        margin-top: 1rem;
+        text-align: center;
+    }
                           }
 /*Footer*/
 
@@ -316,7 +330,7 @@ footer {
                      }
                      
                      .footer-navbar {
-                         text-align: left;
+                         text-align: center;
                          min-width: 600px;
 
                      }
@@ -331,23 +345,27 @@ footer {
     /*Form page*/
 
    
-    
-        .formbutton {
-            text-decoration: none;
-            padding: 8px 25px; 
-            background-color:#b86b77;
-            border-radius: 40px;
-            color:#f7f0ef;
-            font-size: 18px;
-            letter-spacing:1.5px;
-        }
-    
-        .formbutton:hover {
-            color:#f7f0ef;
-            background-color: #F4C8C8;
-            transition: 1s ease;
-        }
-    
-        .formbutton, select{
-            cursor: pointer;
-        }
+    .section-form {
+        height: 100vh;
+        width: 100%;
+    }
+
+    .formbutton {
+        text-decoration: none;
+        padding: 0.5rem; 
+        background-color:var(--dark);
+        border-radius: 1rem;
+        color:var(--cream);
+        font-size: 0.8rem;
+        letter-spacing:1.5px;
+    }
+
+    .formbutton:hover {
+        color:#f7f0ef;
+        background-color: #F4C8C8;
+        transition: 1s ease;
+    }
+
+    .formbutton, select{
+        cursor: pointer;
+    }
