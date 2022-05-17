@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,17 +13,24 @@
 
 <body>
 <main>
-       <!-- Logo and Navigation Bar-->
-       <header class="logo-navbartop-container">
-        <a href="index.html" aria-label="Takes you to homepage"><img src="./assets/images/logo.png" alt="logo Carpe Diem Data Solutions" class="navbartop_logo"></a>
-     
-         <nav class="nav-bar">
-            <a href="index.html" aria-label="Go to Home Page"class="active">Home</a>
-            <a href="about.html" aria-label="Go to About section">About</a>
-            <a href="services.html" aria-label="Go to the Services section">Services</a>
-            <a href="contact.html" aria-label="Go to Contact section">Contact</a>
-         </nav>
-       </header>
+
+       <!-- Logo and Navigation Bar Responsive influenced by Dev Reis chanel https://www.youtube.com/watch?v=CFmMNuxZ3YY-->
+    <header class="logo-navbartop-container">
+        <div class = "logo__navbar">
+       <a href="index.html" aria-label="Takes you to homepage"><img src="./assets/images/logo.png" alt="logo Carpe Diem Data Solutions" class="navbartop_logo">
+       </a>
+        </div>
+        <nav>
+         <input type="checkbox" id="check">
+         <label for="check" class="hamburguer__button"><i class="fa-solid fa-bars"></i></label>
+        <ul>
+          <li><a href="index.html" aria-label="Go to Home Page"class="active">Home</a></li>
+          <li><a href="about.html" aria-label="Go to About us section">About</a></li>
+          <li><a href="services.html" aria-label="Go to the Services section">Services</a></li>
+          <li><a href="contact.html" aria-label="Go to Contact Us section">Contact</a></li>
+       </ul>
+    </nav>
+</header>
        
      <!-- Hero Section-->
      <section id="hero">
@@ -95,9 +103,9 @@
      </nav>
     
     <ul class="footer-social-links">   
-        <li><a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
-        <li><a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
-        <li><a href="https://youtube.com" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
+        <li class="social-icons"><a href="https://facebook.com" target="_blank" class="social-link-item"><i class="fab fa-facebook"></i></a></li>
+        <li class="social-icons"><a href="https://instagram.com" target="_blank" class="social-link-item"><i class="fab fa-instagram"></i></a></li>
+        <li class="social-icons"><a href="https://youtube.com" target="_blank" class="social-link-item"><i class="fab fa-youtube-square"></i></a></li>
         </ul>     
     </div>
 
@@ -107,6 +115,7 @@
     </footer>
 
 </main>
+
 </body>
 <script src="https://kit.fontawesome.com/de5916a16b.js" crossorigin="anonymous"></script>
 </html>
