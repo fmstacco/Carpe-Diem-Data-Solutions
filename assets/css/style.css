@@ -2,8 +2,8 @@
 
 
 :root {
-    --cream:#f8efe4;
-    --dark: #282120;
+    --cream:#f7f6f5;
+    --dark: #14171C;
     --yellow:#fad02c;
     --rose: #e6c2bf;
     --gold:#b88917;
@@ -16,6 +16,7 @@ body {
     background-color: var(--cream);
     color: var(--dark);
     font-family: Inter, sans-serif;
+  
 }
 /* Header - Logo and Navigation*/
 .logo-navbartop-container {
@@ -401,7 +402,7 @@ footer {
         justify-content: space-around;
         flex-direction: column;
         height: 100vh;   
-        background-color: var(--yellow);
+        background-color: var(--cream);
     
     }
 
@@ -474,20 +475,17 @@ footer {
 
               .services-box1 {
                 width: 25%;
-                background-color: var(--yellow)
         ;
         
             }
         
             .services-box2 {
                 width: 25%;
-                background-color: var(--yellow);
                 
             }
         
             .services-box3 {
                 width: 25%;
-                background-color: var(--yellow);
                 
             }
 
