@@ -3,7 +3,7 @@
 
 :root {
     --cream:#f7f6f5;
-    --dark: #14171C;
+    --dark: #020814;
     --yellow:#fad02c;
     --rose: #e6c2bf;
     --gold:#b88917;
@@ -16,7 +16,6 @@ body {
     background-color: var(--cream);
     color: var(--dark);
     font-family: Inter, sans-serif;
-  
 }
 /* Header - Logo and Navigation*/
 .logo-navbartop-container {
@@ -133,20 +132,43 @@ a:hover {
             }
          @media screen and (min-width: 1024px) {
         
-        .logo-navbartop-container{
-            flex-direction: row;
-            justify-content: space-between;
-            align-items: center;
-          
-            border: none;
+#hero {
+    background-image: url(../images/hero.jpg);
+    height: 50rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    ;
+}   
+
+        #hero-image{
+           display: none;
                   }
+        
+        #hero-headline {
+            margin-bottom: 1rem;
+            text-align: left;
+            font-size: 3rem;
+            padding-top: 15rem;
             
-                  .nav-bar a{ 
-                   margin-right: .7rem;
-                   font-weight: bold;
-                       
-                }
-            
+        }
+
+        .hero-text-p {
+            font-size: 1.3rem;
+            width: 43%;
+            font-weight: bold;
+        }
+
+        #hero-headline2 {
+            margin-bottom: 1rem;
+            text-align: left;
+            font-size: 1.5rem;
+            padding-top: 1rem;
+            text-transform: uppercase;
+        }
+                  
                 }
 
     /* Section About*/
