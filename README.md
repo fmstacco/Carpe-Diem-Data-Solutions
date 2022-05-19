@@ -8,7 +8,7 @@
 
 
 
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Carpe Diem Data Solutions logo](./assets/images/logo.png)
 
 Welcome fmstacco,
 
