@@ -12,12 +12,19 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
-    *  [User Stories](<#user-stories>)
+    * [User Stories](<#user-stories>)
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
     *  [Typography](<#typography>)
     *  [Colour Scheme](<#colour-scheme>)
+* [**Features**](<#features>)
+    * [Navigation Menu](<#navigation-menu>)
+    * [Home Page](<#home-page>)
+    * [About Page](<#about-page>)
+    * [Services Page](<#packages-page>)
+    * [Contact Page](<#contact-page>)
+    * [Footer](<#footer>)
 
 # User Experience (UX)
 
@@ -55,3 +62,28 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
       The colour scheme eventually chosen is one based on green and off-white. The colour contrasts with the wood colour in many of the images. Green traditionally gives the impression of energy, safety and growth. This is something that Wawas Woods can hopefully pass onto the user.
 
 ![Colour Palate image](assets/readme-images/color-palate.png)
+
+
+# Features
+
+## Navigation
+
+## Home Page
+
+## About Page
+
+## Services Page
+
+## Contact Page
+
+## Thank You Page
+
+[Back to top](<#contents>)
+
+* [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [**Content**](<#content>)
+    * [**Media**](<#media>)
+*  [**Acknowledgements**](<#acknowledgements>)git 
