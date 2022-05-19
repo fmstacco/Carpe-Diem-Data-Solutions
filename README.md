@@ -25,6 +25,13 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
     * [Services Page](<#packages-page>)
     * [Contact Page](<#contact-page>)
     * [Footer](<#footer>)
+    * [**Technologies Used**](<#technologies-used>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [**Content**](<#content>)
+    * [**Media**](<#media>)
+*  [**Acknowledgements**](<#acknowledgements>)
 
 # User Experience (UX)
 
@@ -55,11 +62,9 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
  * ### Typography
       The fonts chosen were 'Inter' for the headings and 'Roboto' for the body text. They fall back to cursive and sans-serif respectively. 
-     *  'Caveat' was chosen for the headings to give the user an inital welcoming feel. The cursive style generally feels more inviting and less intimidating for the user than others.
-      * 'Lato' is used for the body text as it provides a nice contrast to the cursive whilst being easy to read for all.
+  
 
  * ### Colour Scheme
-      The colour scheme eventually chosen is one based on green and off-white. The colour contrasts with the wood colour in many of the images. Green traditionally gives the impression of energy, safety and growth. This is something that Wawas Woods can hopefully pass onto the user.
 
 ![Colour Palate image](assets/readme-images/color-palate.png)
 
@@ -80,10 +85,3 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 [Back to top](<#contents>)
 
-* [**Technologies Used**](<#technologies-used>)
-* [**Testing**](<#testing>)
-* [**Deployment**](<#deployment>)
-* [**Credits**](<#credits>)
-    * [**Content**](<#content>)
-    * [**Media**](<#media>)
-*  [**Acknowledgements**](<#acknowledgements>)git 
