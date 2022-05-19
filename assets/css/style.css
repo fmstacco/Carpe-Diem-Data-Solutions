@@ -16,6 +16,7 @@ body {
     background-color: var(--cream);
     color: var(--dark);
     font-family: Inter, sans-serif;
+
 }
 /* Header - Logo and Navigation*/
 .logo-navbartop-container {
@@ -406,33 +407,51 @@ footer {
                      
     }
 
-    /*Form page*/
+    /*Contact page*/
 
    
-    .section-form {
-        height: 100vh;
-        width: 100%;
-    }
 
-    .formbutton {
-        text-decoration: none;
-        padding: 0.5rem; 
-        background-color:var(--dark);
-        border-radius: 1rem;
-        color:var(--cream);
-        font-size: 0.8rem;
-        letter-spacing:1.5px;
-    }
 
-    .formbutton:hover {
-        color:#f7f0ef;
-        background-color: #F4C8C8;
-        transition: 1s ease;
+    .form-container {
+        width: 87%;
+        height: 27rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding:0.8rem;
+        margin:0.5rem auto;
+        border-radius: 5%;
+        background-color: var(--rose);
     }
+    
+    .field {
+        margin-bottom: 0.8rem;
+        }
 
-    .formbutton, select{
-        cursor: pointer;
-    }
+        .field label { 
+            margin-bottom: 0.2em;
+        }   
+
+        .field input[type="text"], .field input[type="email"], .field select, .field textarea {
+            padding: 0.3rem; 
+            border: 1px solid var(--dark);
+            box-shadow: 2px 2px 2px rgba(0,0,0,0.2); 
+            display:block;
+        }
+        
+
+        .formbutton {
+            text-decoration: none;
+            padding: 0.2rem 1rem; 
+            background-color: var(--dark);
+            border-radius: 1rem;
+            color:var(--cream);
+            font-size: 1rem;
+            letter-spacing:0.1rem;
+            margin-bottom:0.5rem ;
+        }
+
 
     /*Page Services - 1st section*/
 
