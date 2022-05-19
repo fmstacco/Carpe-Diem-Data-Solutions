@@ -410,8 +410,6 @@ footer {
     /*Contact page*/
 
    
-
-
     .form-container {
         width: 87%;
         height: 27rem;
@@ -452,6 +450,24 @@ footer {
             margin-bottom:0.5rem ;
         }
 
+        .formbutton:hover {
+            color:#f7f0ef;
+            background-color: --var(--rose);
+            transition: 1s ease;
+        }
+    
+        .formbutton, select{
+            cursor: pointer;
+              }
+
+
+/*Form Destination Page */
+
+
+#thankyou-text {
+    padding: 10% 20% 10% 20%;
+    font-weight: lighter;
+}
 
     /*Page Services - 1st section*/
 
