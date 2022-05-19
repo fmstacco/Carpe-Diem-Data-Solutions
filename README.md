@@ -7,6 +7,7 @@ Carpe Diem Data Solutions is a small business consulting company that offers dat
 
 Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Data-Solutions/index.html" target="_blank">Carpe Diem Data Solutions</a>
 
+![Carpe Diem Data Solutions responsive design](./assets/images/readme/responsive.jpg)
 
 # Contents
 
