@@ -122,6 +122,10 @@ a:hover {
             padding: 1rem;
         }
         
+        .hero-headline2 {
+            font-size: 1rem;
+        }
+
         #hero-image {
             display: block;
             width: 100%;
@@ -130,6 +134,7 @@ a:hover {
         #hero-headline {
             margin-bottom: 1rem;
             }
+
          @media screen and (min-width: 1024px) {
         
 #hero {
@@ -143,13 +148,12 @@ a:hover {
     animation-name: hero;
     animation-duration: 5s;
     padding-top:5rem;
-    
-   
+  
 }   
 
 @keyframes hero {
-    from {scale: 1.0;}
-    to {scale: 1.05;}
+    from {transform: scale(1);}
+    to {transform: scale(1.05);}
   }
 
         #hero-image{
@@ -173,7 +177,7 @@ a:hover {
             font-weight: bold;
         }
 
-        #hero-headline2 {
+        .hero-headline2 {
             margin-bottom: 1rem;
             text-align: left;
             font-size: 1.5rem;
