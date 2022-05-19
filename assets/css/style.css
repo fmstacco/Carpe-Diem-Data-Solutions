@@ -200,7 +200,7 @@ a:hover {
         align-items: center;
         flex-direction: column;
         background-color: var(--dark);
-        height: 100vh;
+        height: 40rem;
         
     }
 
@@ -250,7 +250,7 @@ a:hover {
       }
       
       button:hover {
-        background-color: var(--gold);
+        background-color: var(--rose);
         border: 2px solid var(--dark);
         cursor:pointer;
       }
@@ -259,12 +259,21 @@ a:hover {
         #about-container {
             display: flex;
             flex-direction: row-reverse;
-                     }
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;   
+            height: 30rem;      }
                     
          #about-image {
-        padding: 10rem 0 10rem 10rem;
-       
+        width: 40%;
+        margin-left: 20rem;
                     }
+
+
+.about-text {
+    width: 60%;
+    margin-bottom: 1rem;
+}
                 }
 
    
