@@ -18,6 +18,11 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
     *  [Typography](<#typography>)
     *  [Colour Scheme](<#colour-scheme>)
 
-    #user-experience-ux
+# User Experience (UX)
 
-    ## User Stories
+## User Stories
+
+* As a user I want to be able to navigate through the whole site smoothly.
+* As a user I want to understand the purpose of the site upon loading it.
+
+[Back to top](<#contents>)
