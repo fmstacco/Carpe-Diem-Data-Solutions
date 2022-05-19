@@ -1,6 +1,6 @@
 # **_Carpe Diem Data Solutions - Project Portfolio 1 - HTML & CSS_**
 
-![Carpe Diem Data Solutions logo](./assets/images/logo-dark-background_%20253x105px.png ) 
+![Carpe Diem Data Solutions logo](./assets/images/logo-dark-background_253x105px.png ) 
 
 Carpe Diem Data Solutions is a small business consulting company that offers data analysis, data science and data engineering services.
 
