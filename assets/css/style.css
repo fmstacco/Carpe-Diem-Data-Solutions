@@ -200,7 +200,7 @@ a:hover {
         align-items: center;
         flex-direction: column;
         background-color: var(--dark);
-        height: 40rem;
+        height: 100vh;
         
     }
 
@@ -255,6 +255,11 @@ a:hover {
         cursor:pointer;
       }
 
+      .about-icons-img {
+          display: flex;
+          width: 100px;
+          height: 100px;
+      }
       @media screen and (min-width: 1024px) {
         #about-container {
             display: flex;
