@@ -355,8 +355,8 @@ a:hover {
     text-align: center;
     letter-spacing: 0.1rem;
     font-weight: bold;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-top: 1.0rem;
+    margin-bottom: 1.0rem;
 
 }
 
@@ -365,7 +365,7 @@ a:hover {
     text-transform: capitalize;
     letter-spacing: 0.1rem;
     font-weight: bold;
-    margin-top: 5rem;
+    margin-top: 4rem;
     background-color: var(--dark);
     color: var(--cream);
     width: 80%;
@@ -377,7 +377,7 @@ a:hover {
 
   .success-cases-text-headline:hover {
         background-color: var(--rose);
-        color: var(--dark);   
+        color: var(--dar);   
     }
 
 .success-case1 {
@@ -386,7 +386,7 @@ a:hover {
     align-items: center;
     justify-content: space-around;
     width: 85%;
-    height: 20rem;
+    height: 22rem;
     border-radius: 5%;  
     margin:1rem;
     padding:1rem; 
@@ -402,7 +402,7 @@ a:hover {
     align-items: center;
     justify-content: space-around;
     width: 85%;
-    height: 20rem;
+    height: 22rem;
     border-radius: 5%;  
     margin:1rem;
     padding:1rem;   
@@ -417,9 +417,8 @@ a:hover {
     align-items: center;
     justify-content: space-around;
     width: 85%;
-    height: 20rem;
+    height: 22rem;
     border-radius: 5%;  
-    margin:1rem;
     padding:1rem;
     border: 0.15rem solid var(--dark);
     box-shadow: 5px 10px;
@@ -430,11 +429,13 @@ a:hover {
 
 .success-case-headline {
 color: var(--dark);
+
 }
 
 .sucess-case-text {
 color: var(--dark);
 text-align: center;
+margin-bottom:0.5rem;
 }
 
 
