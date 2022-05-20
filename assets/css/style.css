@@ -125,12 +125,26 @@ a:hover {
         /*Section Hero*/
         
         
+        #hero-headline {
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+            text-transform: capitalize;
+            text-align: center;
+            padding-top:1.25rem;
+            }
+
         .hero-text {
             padding: 1rem;
+            font-size: 1rem;
+            text-align: center;
         }
         
         .hero-headline2 {
+            padding-top: 1rem;
             font-size: 1rem;
+            text-transform: uppercase;
+            text-align: center;
+
         }
 
         #hero-image {
@@ -138,9 +152,7 @@ a:hover {
             width: 100%;
            }
         
-        #hero-headline {
-            margin-bottom: 1rem;
-            }
+       
 
          @media screen and (min-width: 1024px) {
         
@@ -171,9 +183,7 @@ a:hover {
             margin-bottom: 1rem;
             text-align: left;
             font-size: 3rem;
-            padding-top: 15rem;
-            
-            
+            padding-top: 15rem;        
         }
 
       
@@ -182,6 +192,8 @@ a:hover {
             font-size: 1.3rem;
             width: 43%;
             font-weight: bold;
+            text-align: left;
+
         }
 
         .hero-headline2 {
@@ -198,6 +210,67 @@ a:hover {
                   
                 }
 
+
+
+                /*Benefits Section*/
+
+
+                .benefits-section {
+                    height: 100vh;
+                    background-color: var(--dark);
+                }
+
+
+                .benefits-container{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    margin: 0 auto; 
+                    height: 100vh;
+
+                }
+
+                .benefits-text{
+                padding: 1rem;
+                font-size: 1rem;
+                text-align: center;
+            }
+          
+                .benefits-headline {
+                    text-align: center;
+                    color: var(--cream);
+                    text-transform: capitalize;
+                    font-size: 1.5rem;
+                    padding-top:1.25rem ;
+
+                }
+
+                .benefits-icons-img {
+                    display: flex;
+                    width: 100px;
+                    height: 100px;
+                }
+
+                @media screen and (min-width: 1024px) {
+               
+                    .benefits-container{
+                        display: flex;
+                        flex-direction: raw;
+                        justify-content: center;
+                        align-items: center;
+                        margin: 0 auto; 
+                        height: 100vh;
+    
+                    }
+                    .benefits-headline1 {
+                        padding-top: 5rem;
+                        font-size: 2rem;
+                          }
+                
+                }
+
+                    
     /* Section About*/
 
 
@@ -214,9 +287,10 @@ a:hover {
     .about-headline {
         color: var(--cream);
         text-align: left;
+        padding-top: 5rem;
         padding-left: 0.5rem;
         margin-bottom: 0.5rem;
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .about-headline-2 {
@@ -261,11 +335,7 @@ a:hover {
         cursor:pointer;
       }
 
-      .about-icons-img {
-          display: flex;
-          width: 100px;
-          height: 100px;
-      }
+    
       @media screen and (min-width: 1024px) {
         #about-container {
             display: flex;
@@ -296,6 +366,15 @@ a:hover {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+}
+
+.section-services-headline {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 2rem;
+    text-transform:capitalize;
+                        padding-top: 5rem;
+
 }
 
 
@@ -331,10 +410,7 @@ a:hover {
 
     }
 
-    .section-services-headline {
-        margin-top: 1rem;
-        text-align: center;
-    }
+ 
                           }
 
 /*Success Cases Section*/
