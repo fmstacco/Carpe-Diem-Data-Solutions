@@ -104,6 +104,12 @@ a:hover {
         margin-bottom: 1.25rem;
         margin-left: .7rem;
    }
+
+   a:hover {
+    color: var(--rose);
+    transition: ease-in;
+      }
+   
     .hamburguer__button {
         display:none;
    }
