@@ -388,8 +388,8 @@ a:hover {
     width: 85%;
     height: 22rem;
     border-radius: 5%;  
-    margin:1rem;
-    padding:1rem; 
+    margin:0.5rem;
+    padding:0.5rem; 
     border: 0.15rem solid var(--dark);
     box-shadow: 5px 10px;
 
@@ -404,8 +404,8 @@ a:hover {
     width: 85%;
     height: 22rem;
     border-radius: 5%;  
-    margin:1rem;
-    padding:1rem;   
+    margin:0.5rem;
+    padding:0.5rem;   
     border: 0.15rem solid var(--dark);
     box-shadow: 5px 10px;
 
@@ -418,8 +418,9 @@ a:hover {
     justify-content: space-around;
     width: 85%;
     height: 22rem;
-    border-radius: 5%;  
-    padding:1rem;
+    border-radius: 5%; 
+    margin:0.5rem;
+    padding:0.5rem;
     border: 0.15rem solid var(--dark);
     box-shadow: 5px 10px;
 
@@ -442,6 +443,15 @@ margin-bottom:0.5rem;
 
 
 @media screen and (min-width: 1024px) {
+
+    .success-cases-container {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: 30rem;
+        margin: 0 auto  ;
+
+          }
     
     .success-cases-text-headline{
         text-align: center;
@@ -457,21 +467,10 @@ margin-bottom:0.5rem;
         border-radius: 25%;
 
           }
-          }
-
-@media screen and (min-width: 1024px) {
-    .success-cases-container {
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-        height: 37.5rem;
-        margin: 0 auto  ;
-
-          }
 
           .success-case1 {
             width: 25%;
-    ;
+    
     
         }
     
@@ -484,8 +483,11 @@ margin-bottom:0.5rem;
             width: 25%;
             
         }
+          }
 
-        }
+       
+
+        
 
     
 
