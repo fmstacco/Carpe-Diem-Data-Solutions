@@ -410,6 +410,8 @@ a:hover {
     height: 10rem;
     background-color: var(--dark);
 }
+}
+
     /*Contact page*/
 
    
@@ -455,7 +457,7 @@ a:hover {
 
         .formbutton:hover {
             color:#f7f0ef;
-            background-color: --var(--rose);
+            background-color:var(--rose);
             transition: 1s ease;
         }
     
@@ -569,4 +571,4 @@ a:hover {
 
             }
 
-        }
+        
