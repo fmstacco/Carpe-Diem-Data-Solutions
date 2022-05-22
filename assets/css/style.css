@@ -28,9 +28,15 @@ body {
     background-color: var(--dark);
 
 }
-.logo__navbar {
-    margin: 0.5rem;
+
+.navbartop_logo { 
+    width: 15.81rem;
+    margin-left: 2rem;
+
 }
+
+
+
 .hamburguer__button {
     display: flex;
     flex-direction: column;
@@ -664,6 +670,10 @@ margin-bottom:0.5rem;
 .footer-section {
     height: 10rem;
     background-color: var(--dark);
+}
+
+.navbarfooter_logo {
+    width: 15.81rem;
 }
 
 .footer-container {
