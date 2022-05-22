@@ -15,6 +15,7 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
 * [**User Experience UX**](<#user-experience-ux>)
     * [Target Audience](<#target-audience>)
     * [User Stories](<#user-stories>)
+    * [Site Aims](<#site-aims>)
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
@@ -38,7 +39,7 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
 
 # Objective 
 
-This project aims to deliver a professional site of a business consultancy focused on data analysis and data science, so that potential customers - small and medium -sized companies - know the services offered and the benefits they will have through our job.
+This project aims to deliver a professional website of a business consultancy focused on data analysis and data science, so that potential customers - small and medium -sized companies - know the services offered and the benefits they will have through them.
 
 # User Experience (UX)
 
@@ -58,6 +59,14 @@ This project aims to deliver a professional site of a business consultancy focus
 * As a potential client, I want to see what tools they use when offering their services so I can trust they know what they are doing. [tools]
 
 [Back to top](<#contents>)
+
+
+## Site Aims
+
+* To establish an online presence through a website and not just rely on social networks as Facebook, Instagram.
+* Be easily found by potential customers through search engines.
+* To offer information about the company and its services as well as data analysis and data science.
+
 
 ## Wireframes
 
@@ -102,3 +111,14 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 [Back to top](<#contents>)
 
+# Testing
+
+# Deployment 
+
+# Credits 
+
+## Content
+
+## Media
+
+# Acknowledgements
