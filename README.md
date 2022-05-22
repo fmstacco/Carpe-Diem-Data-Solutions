@@ -13,6 +13,7 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
 
 * [**Objective**](<#objective>)
 * [**User Experience UX**](<#user-experience-ux>)
+    * [Target Audience](<#target-audience>)
     * [User Stories](<#user-stories>)
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
@@ -40,6 +41,11 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
 This project aims to deliver a professional site of a business consultancy focused on data analysis and data science, so that potential customers - small and medium -sized companies - know the services offered and the benefits they will have through our job.
 
 # User Experience (UX)
+
+## Target Audience
+
+* Users (potential customers) who are looking for data analysis and data science services to leverage their business.
+* Users (potential customers) who want to implement a data strategy in their business to increase profitability and improve customer services.
 
 ## User Stories
 
