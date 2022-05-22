@@ -112,6 +112,15 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 ## Footer
 
+* The footer section contains the company logo, which takes the potential customer back to the home page. 
+
+* The quick links are also in the footer section to improve the user experience, redirecting back to the pages of the website.
+
+* The social icons for Facebook, Instagram and Youtube take the user to another tab, thus, enhancing the user experience. They are there only for educational purposes. 
+
+* It also contains the copyright notice, with the year and the company's name.  
+
+
 <details><summary><b>Footer Section Image Desktop</b></summary>
 
 <img src="./assets/images/footer.jpg" width="120%" height="120%" alt="Footer Section ImageDesktop"></details>
