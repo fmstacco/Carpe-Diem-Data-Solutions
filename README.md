@@ -89,7 +89,6 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 ## Design Choices
 
  * ### Typography
-      The fonts chosen were 'Inter' for the headings and 'Roboto' for the body text. They fall back to cursive and sans-serif respectively. 
   
 
  * ### Colour Scheme
