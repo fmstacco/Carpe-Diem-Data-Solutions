@@ -93,7 +93,7 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
  * ### Colour Scheme
 
-![Colour Palete image](assets/readme-images/color-palate.png)
+![Colour Palete image](./assets/readme-images/color-palate.png)
 
 
 # Features
@@ -112,11 +112,9 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 ## Footer
 
-
-
 <details><summary><b>Footer Section Image</b></summary>
 
-<img src="assets/images/readme/footer.jpg" width="80%" height="80%" alt="Footer section image">
+<img src="./assets/images/footer.jpg" width="80%" height="80%" alt="Footer Section Image">
 
 [Back to top](<#contents>)
 
