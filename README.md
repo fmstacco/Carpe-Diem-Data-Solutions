@@ -25,7 +25,7 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
     * [Navigation Menu](<#navigation-menu>)
     * [Home Page](<#home-page>)
     * [About Page](<#about-page>)
-    * [Services Page](<#packages-page>)
+    * [Services Page](<#services-page>)
     * [Contact Page](<#contact-page>)
     * [Thank You Page](<#thank-you-page>)
     * [Footer](<#footer>)
@@ -118,6 +118,15 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 # Future Features
 
 # Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML#HTML_5) - to provide the content and structure for the website.
+* [CSS](https://en.wikipedia.org/wiki/CSS) - to provide the styling for the website.
+* [Balsamiq](https://balsamiq.com/wireframes/) - to create the wireframes for the website.
+* [Gitpod](https://www.gitpod.io/#get-started) - to edit and develop the website.
+* [Gitbash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - to push changes to the GitHub repository.
+* [Github](https://github.com/) - to host and deploy the website.
+* 
+
 
 # Testing
 
