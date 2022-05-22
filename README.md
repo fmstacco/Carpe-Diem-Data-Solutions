@@ -94,7 +94,7 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
  * ### Colour Scheme
 
-![Colour Palate image](assets/readme-images/color-palate.png)
+![Colour Palete image](assets/readme-images/color-palate.png)
 
 
 # Features
@@ -120,13 +120,22 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 # Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML#HTML_5) - to provide the content and structure for the website.
-* [CSS](https://en.wikipedia.org/wiki/CSS) - to provide the styling for the website.
 * [Balsamiq](https://balsamiq.com/wireframes/) - to create the wireframes for the website.
+* [Canva](https://www.canva.com/en_gb/) - to create the logo, color palete and to provide images for the website (Pro version) .
+* [CSS](https://en.wikipedia.org/wiki/CSS) - to provide the styling for the website.
+* [Font Awesome](https://fontawesome.com/) - to import icons to the website.
 * [Gitpod](https://www.gitpod.io/#get-started) - to edit and develop the website.
 * [Gitbash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - to push changes to the GitHub repository.
 * [Github](https://github.com/) - to host and deploy the website.
-* 
+* [Google Fonts](https://fonts.google.com/) - to import the 'Inter' font into the style.css file.
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse) - to test the quality of the website.
+* [Techsini](http://techsini.com/multi-mockup/index.php) - to generate a multi device website mockup generator.
+* [Tiny PNG](https://tinypng.com/) - to compress images.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - to validate the CSS.
+* [W3C HTML Validator](https://validator.w3.org/) - to validate the HTML.
 
+
+[Back to top](<#contents>)
 
 # Testing
 
