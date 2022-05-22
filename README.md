@@ -112,6 +112,12 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 ## Footer
 
+
+
+<details><summary><b>Footer Section Image</b></summary>
+
+<img src="assets/images/readme/footer.jpg" width="80%" height="80%" alt="Footer section image">
+
 [Back to top](<#contents>)
 
 # Future Features
