@@ -27,8 +27,10 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
     * [About Page](<#about-page>)
     * [Services Page](<#packages-page>)
     * [Contact Page](<#contact-page>)
+    * [Thank You Page](<#thank-you-page>)
     * [Footer](<#footer>)
-    * [**Technologies Used**](<#technologies-used>)
+* [**Future Features**](<#future-features>)
+* [**Technologies Used**](<#technologies-used>)
 * [**Testing**](<#testing>)
 * [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
@@ -50,13 +52,13 @@ This project aims to deliver a professional website of a business consultancy fo
 
 ## User Stories
 
-* As a potential client, I want to easily navigate through their website pages so I can quickly get the information that I’m looking for.[navigation bars and buttons].
-* As a potential client, I want to see what the results my company can achieve after contracting their services. [benefits].
-* As a potential client, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them. [about us page]
-* As a potential client, I want to know what services the company offers so I can quickly understand if they can address my business issues. [services page]
-* As a potential client, I want to see how the company has helped other clients it helps me to see how competent they are doing their job. [testimonial]
-* As a potential client, I want to know that they will get in touch quickly for a discussion on my business and how can they help me. [thank you page]
-* As a potential client, I want to see what tools they use when offering their services so I can trust they know what they are doing. [tools]
+* As a potential customer, I want to easily navigate through their website pages so I can quickly get the information that I’m looking for.[navigation bars and buttons].
+* As a potential customer, I want to see what the results my company can achieve after contracting their services. [benefits].
+* As a potential customer, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them. [about us page]
+* As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues. [services page]
+* As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job. [testimonial]
+* As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me. [thank you page]
+* As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing. [tools]
 
 [Back to top](<#contents>)
 
@@ -97,7 +99,7 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 # Features
 
-## Navigation
+## Navigation Menu
 
 ## Home Page
 
@@ -109,7 +111,13 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 ## Thank You Page
 
+## Footer
+
 [Back to top](<#contents>)
+
+# Future Features
+
+# Technologies Used
 
 # Testing
 
