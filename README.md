@@ -112,9 +112,13 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 ## Footer
 
-<details><summary><b>Footer Section Image</b></summary>
+<details><summary><b>Footer Section Image Desktop</b></summary>
 
-<img src="./assets/images/footer.jpg" width="120%" height="120%" alt="Footer Section Image"></details>
+<img src="./assets/images/footer.jpg" width="120%" height="120%" alt="Footer Section ImageDesktop"></details>
+
+<details><summary><b>Footer Section Image Mobile</b></summary>
+
+<img src="./assets/images/footer-mobile.jpg" width="120%" height="120%" alt="Footer Section Image Mobile"></details>
 
 [Back to top](<#contents>)
 
