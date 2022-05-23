@@ -100,6 +100,15 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 
 ## Navigation Menu
 
+*In the header of all the page of the site there is the logo and the navigation menu.
+
+*When clicking on the logo the user is directed to the Home page.
+
+*To improve the user experience there is the hover effect on menu items, which changes the background and font colors.
+
+*The header is responsive with the Hamburger menu made only with HTML and CSS inspired by Dev Reis Chanel https://www.youtube.com/watch?v=cfmmnuxz3y
+
+Please click on the links below to see the images of the navigation menu:
 
 <details><summary><b>Navigation Menu - Image Desktop</b></summary>
 
