@@ -26,12 +26,14 @@ body {
     align-items: center;
     justify-content: space-around;
     background-color: var(--dark);
+    padding-right: 2rem;
 
 }
 
 .navbartop_logo { 
     width: 15.81rem;
     margin-left: 2rem;
+
 
 }
 
