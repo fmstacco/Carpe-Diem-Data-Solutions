@@ -82,7 +82,7 @@ The wireframes for Carpe Diem Data Solutions website were produced on [Balsamiq]
 
 ## Site Structure
 
-Carpe Diem Data Solutions website has four pages. The [home page](index.html) is the default loading page, [about](about.html), [services](services.html.html) and [contact](contact.html) pages are all accessible from the navigation menu and from the footer menu. 
+Carpe Diem Data Solutions website has five pages. The [home page](index.html) is the default loading page, [about](about.html), [services](services.html.html) and [contact](contact.html) pages are all accessible from the navigation menu and from the footer menu. The [thank you page](form-destinagion-page.html) is only displayed when the user fill the form on contact page. 
 
 [Back to top](<#contents>)
 
@@ -141,11 +141,11 @@ Please click on the links below to see the images of the navigation menu:
 
 <details><summary><b>Footer Section Image Desktop</b></summary>
 
-<img src="./assets/images/footer.jpg" width="120%" height="120%" alt="Footer Section ImageDesktop"></details>
+<img src="./assets/images/readme/footer.jpg" width="120%" height="120%" alt="Footer Section ImageDesktop"></details>
 
 <details><summary><b>Footer Section Image Mobile</b></summary>
 
-<img src="./assets/images/footer-mobile.jpg" width="50%" height="50%" alt="Footer Section Image Mobile"></details>
+<img src="./assets/images/readme/footer-mobile.jpg" width="50%" height="50%" alt="Footer Section Image Mobile"></details>
 
 [Back to top](<#contents>)
 
@@ -182,3 +182,4 @@ Please click on the links below to see the images of the navigation menu:
 ## Media
 
 # Acknowledgements
+
