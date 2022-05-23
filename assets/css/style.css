@@ -27,6 +27,7 @@ body {
     justify-content: space-around;
     background-color: var(--dark);
     padding-right: 2rem;
+    padding-top: 1.5rem;
 
 }
 

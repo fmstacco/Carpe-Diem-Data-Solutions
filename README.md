@@ -101,6 +101,13 @@ Carpe Diem Data Solutions website has four pages. The [home page](index.html) is
 ## Navigation Menu
 
 
+<details><summary><b>Navigation Menu - Image Desktop</b></summary>
+
+<img src="./assets/images/readme/nav-bar-desktop.jpg" width="120%" height="120%" alt="Bar Navigation Section Image Desktop"></details>
+
+<details><summary><b>Navigation Menu - Image Mobile</b></summary>
+
+<img src="./assets/images/readme/nav-bar-mobile.jpg" width="50%" height="50%" alt="Bar Navigation Section Image Mobile"></details>
 
 ## Home Page
 
