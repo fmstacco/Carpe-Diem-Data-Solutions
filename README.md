@@ -173,7 +173,7 @@ Please click on the links below to see the images of the navigation menu:
 
 # Testing
 
-### *Code Validation
+### Code Validation
 
 HTML validation image 
 
@@ -182,7 +182,7 @@ HTML validation image
 
 CSS validation image
 
-![CSS validation image ](./assets/images/readme/w3c-html-validator.jpg) 
+![CSS validation image ](./assets/images/readme/w3c-css-validator.jpg) 
 
 
 
