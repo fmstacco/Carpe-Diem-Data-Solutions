@@ -256,17 +256,17 @@ clo[Back to top](<#contents>)
 ## Content
 
 
-* [Font Awesome](https://fontawesome.com/) to import the social icons to the website.
+* [Font Awesome](https://fontawesome.com/){:target="_blank" rel="noopener"} to import the social icons to the website.
 
-* [Google Fonts](https://fonts.google.com/) to import the 'Inter' font into the style.css file.
+* [Google Fonts](https://fonts.google.com/){:target="_blank" rel="noopener"} to import the 'Inter' font into the style.css file.
 
-* [W3Schools](https://www.w3schools.com/) to reinforce learning about coding concepts.
+* [W3Schools](https://www.w3schools.com/){:target="_blank" rel="noopener"} to reinforce learning about coding concepts.
 
 * [Tiny PNG](https://tinypng.com/) - to compress images.
 
-* [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) - inspiration for the hero section - animation and for the website structure.
+* [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode){:target="_blank" rel="noopener"} - inspiration for the hero section - animation and for the website structure.
 
-* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14) - inspiration for the header - navigation bar with hamburguer menu. 
+* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14){:target="_blank" rel="noopener"} - inspiration for the header - navigation bar with hamburguer menu. 
 
 
 
