@@ -131,6 +131,7 @@ Please click on the links below to see the images of the navigation menu:
 
 
 
+
 ## Footer
 
 * The footer section contains the company logo, which takes the potential customer back to the home page. 
@@ -162,7 +163,7 @@ This website can be improved in the future through new features to be developed:
 
 **Success cases** - expand the success cases section by highlighting the challenges and solutions of the potential clients after going through our consultancy. Perhaps one page dedicated to the success case section with cards for each success case.
 
-**Quiz** - One quiz for the potential customer to find out what is the maturity level of their company's data department. 
+**Quiz** - develop a quiz for the potential customer to find out what is the maturity level of their company's data department. 
 
 
 # Technologies Used
