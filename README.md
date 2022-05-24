@@ -208,6 +208,9 @@ This website was deployed to Github by following the steps below:
 
 ![GitHub pages deployed image](assets/images/readme/deployment.jpg)
 
+This is the link to the Github repository  - https://github.com/fmstacco/Carpe-Diem-Data-Solutions
+
+
 
 ### **To fork this repository on GitHub**
 
