@@ -204,15 +204,27 @@ This website was deployed to Github by following the steps below:
 1. In the Github repository for this project navigate to the ***settings*** tab.
 2. On the left side of the page, scroll down and navigate to the ***pages*** tab.
 3. Under the ***source*** tab, select the branch called ***main*** and select the folder called ***root***.
-4. 
+4. The page will automatically refresh, with a message that the website has been launched and after about five minutes is possible to obtain the link to the deployed website.
 
 ![GitHub pages deployed image](assets/images/readme/deployment.jpg)
 
 This is the link to the Github repository  - https://github.com/fmstacco/Carpe-Diem-Data-Solutions
 
 
-
 ### **To fork this repository on GitHub**
+
+A fork of this repository can be made which will allow you to make changes on this project without affecting the original repository. 
+
+The follow steps should be followed to fork a respository:
+
+1. Log in to ***GitHub*** and find the [repository](https://github.com/fmstacco/Carpe-Diem-Data-Solutions).
+
+2. Click on the button ***fork*** on the right hand side of the page to create a copy of the original repository in your GitHub Account.
+
+See the image below:
+
+![GitHub pages - to fork a depository](assets/images/readme/fork.jpg)
+
 
 
 
