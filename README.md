@@ -249,36 +249,43 @@ Type: git clone + https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
 Help on cloning a repository from GitHub can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 
-clo[Back to top](<#contents>)
+[Back to top](<#contents>)
 
 # Credits 
 
 ## Content
 
+* [Alura](https://www.alura.com.br/) to learn Flexbox and Responsiveness concepts.
 
-* [Font Awesome](https://fontawesome.com/){:target="_blank" rel="noopener"} to import the social icons to the website.
+* [Font Awesome](https://fontawesome.com/) to import the social icons to the website.
 
-* [Google Fonts](https://fonts.google.com/){:target="_blank" rel="noopener"} to import the 'Inter' font into the style.css file.
+* [Google Fonts](https://fonts.google.com/)to import the 'Inter' font into the style.css file.
 
-* [W3Schools](https://www.w3schools.com/){:target="_blank" rel="noopener"} to reinforce learning about coding concepts.
+* [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)- inspiration for the hero section - animation and for the website structure.
+
+* [Oper Data](https://operdata.com.br/data-science/cases-e-clientes/) - inspiration for Success Cases content.
+
+* [Indicium] (https://blog.indicium.tech/4-etapas-consultoria-data-science/) - inspiration for data science content.
 
 * [Tiny PNG](https://tinypng.com/) - to compress images.
 
-* [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode){:target="_blank" rel="noopener"} - inspiration for the hero section - animation and for the website structure.
+* [W3Schools](https://www.w3schools.com/)to reinforce learning about coding concepts.
 
-* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14){:target="_blank" rel="noopener"} - inspiration for the header - navigation bar with hamburguer menu. 
+* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14) inspiration for the header - navigation bar with hamburguer menu. 
 
-
-
+* [Youtube - Dev Reis Channel](https://www.youtube.com/watch?v=CFmMNuxZ3YY) inspiration for the header - navigation bar with hamburguer menu. 
 
 
 ## Media
 
 * [Canva](https://www.canva.com/en_gb/) to design the logo, the color palete and to source images for this website.
 
+[Back to top](<#contents>)
 
 # Acknowledgements
 
 This site, Carpe Diem Digital Solutions was designed and developed for Portfolio 1 project, a requirement of Full Stack Software Developer Diploma Course (Eccommerce) at the [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my Cohort facilitators [Kasia Bogucka](https://www.linkedin.com/in/kasbogucka/) and [Kenan Wright](https://se.linkedin.com/in/kenan-wright-bb0359b8), my Cohort coleagues, the Slack community and the Student care for all support during this journey.
 
 Fabiana Tacco (2022)
+
+[Back to top](<#contents>)
