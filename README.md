@@ -206,8 +206,16 @@ This website was deployed to Github by following the steps below:
 3. Under the ***source*** tab, select the branch called ***main*** and select the folder called ***root***.
 4. 
 
+![GitHub pages deployed image](assets/images/readme/deployment.jpg)
 
-  
+
+### **To fork this repository on GitHub**
+
+
+
+
+### **To create a local clone of this project**
+
 
 
 
