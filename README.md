@@ -210,12 +210,13 @@ This website was deployed to Github by following the steps below:
 
 This is the link to the Github repository  - https://github.com/fmstacco/Carpe-Diem-Data-Solutions
 
+[Back to top](<#contents>)
 
 ### **To fork this repository on GitHub**
 
 A fork of this repository can be made which will allow you to make changes on this project without affecting the original repository. 
 
-The follow steps should be followed to fork a respository:
+The steps below should be followed to ***fork*** a respository:
 
 1. Log in to ***GitHub*** and find the [repository](https://github.com/fmstacco/Carpe-Diem-Data-Solutions).
 
@@ -225,14 +226,33 @@ See the image below:
 
 ![GitHub pages - to fork a depository](assets/images/readme/fork.jpg)
 
-
-
-
+[Back to top](<#contents>)
 
 ### **To create a local clone of this project**
 
+The steps below should be followed to ***clone*** a respository:
+
+1. On the repository’s page, click on the ***code*** tab.
+2. On the ***Clone with HTTPS*** tab, click on the icon (see image below) to copy the URL.
+
+![Image to clone a repository](assets/images/readme/clone.jpg)
+
+3. Open ***Git Bash***.
+4. Change the current working directory to the location where you want the cloned directory.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+
+<git clone> https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
+
+6. Press **enter** and the local clone will be created.
 
 
+Help on cloning a repository from GitHub can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+
+
+
+
+[Back to top](<#contents>)
 
 # Credits 
 
