@@ -237,13 +237,13 @@ The steps below should be followed to ***clone*** a respository:
 
 ![Image to clone a repository](assets/images/readme/clone.jpg)
 
-3. Open ***Git Bash***.
+3. Open ***Git Bash*** on your IDE terminal.
 4. Change the current working directory to the location where you want the cloned directory.
-5. Type **git clone**, and then paste the URL copied from GitHub.
+5. Type ***git clone***, and then paste the URL copied from GitHub.
 
-<git clone> https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
+Type: gitclone + https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
 
-6. Press **enter** and the local clone will be created.
+6. Press ***enter*** and the local clone will be created.
 
 
 Help on cloning a repository from GitHub can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
