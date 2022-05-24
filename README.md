@@ -255,7 +255,20 @@ clo[Back to top](<#contents>)
 
 ## Content
 
+
+* [Font Awesome](https://fontawesome.com/) to import the social icons to the website.
+
+* [Google Fonts](https://fonts.google.com/) to import the 'Inter' font into the style.css file.
+
+* [W3Schools](https://www.w3schools.com/) to reinforce learning about coding concepts.
+
+* [Tiny PNG](https://tinypng.com/) - to compress images.
+
+
 ## Media
+
+* [Canva](https://www.canva.com/en_gb/) to design the logo, the color palete and to source images for this website.
+
 
 # Acknowledgements
 
