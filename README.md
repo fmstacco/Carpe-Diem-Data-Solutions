@@ -275,6 +275,8 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Youtube - Dev Reis Channel](https://www.youtube.com/watch?v=CFmMNuxZ3YY) inspiration for the header - navigation bar with hamburguer menu. 
 
+* [Love-Light-Photography](https://github.com/rhiannonmcn/Love-Light-Photography), [Natural Clean](https://github.com/Elvira-94/natural-clean) and [Wawaswoods](https://github.com/EwanColquhoun/wawaswoods) were my inspirations for README structure. 
+
 
 ## Media
 
