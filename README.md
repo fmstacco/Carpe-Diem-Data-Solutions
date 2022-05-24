@@ -264,6 +264,13 @@ clo[Back to top](<#contents>)
 
 * [Tiny PNG](https://tinypng.com/) - to compress images.
 
+* [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) - inspiration for the hero section - animation and for the website structure.
+
+* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14) - inspiration for the header - navigation bar with hamburguer menu. 
+
+
+
+
 
 ## Media
 
