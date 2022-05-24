@@ -173,6 +173,22 @@ Please click on the links below to see the images of the navigation menu:
 
 # Testing
 
+### *Code Validation
+
+HTML validation image 
+
+![HTML validation image ](./assets/images/readme/w3c-html-validator.jpg) 
+
+
+CSS validation image
+
+![CSS validation image ](./assets/images/readme/w3c-html-validator.jpg) 
+
+
+
+
+[Back to top](<#contents>)
+
 # Deployment 
 
 # Credits 
