@@ -241,7 +241,7 @@ The steps below should be followed to ***clone*** a respository:
 4. Change the current working directory to the location where you want the cloned directory.
 5. Type ***git clone***, and then paste the URL copied from GitHub.
 
-Type: gitclone + https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
+Type: git clone + https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
 
 6. Press ***enter*** and the local clone will be created.
 
