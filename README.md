@@ -128,6 +128,9 @@ Please click on the links below to see the images of the navigation menu:
 
 ## Thank You Page
 
+
+
+
 ## Footer
 
 * The footer section contains the company logo, which takes the potential customer back to the home page. 
@@ -257,23 +260,23 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Alura](https://www.alura.com.br/) to learn Flexbox and Responsiveness concepts.
 
-* [Font Awesome](https://fontawesome.com/) to import the social icons to the website.
+* [Font Awesome](https://fontawesome.com/) - to import the social icons to the website.
 
-* [Google Fonts](https://fonts.google.com/)to import the 'Inter' font into the style.css file.
+* [Google Fonts](https://fonts.google.com/) - to import the 'Inter' font into the style.css file.
 
 * [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)- inspiration for the hero section - animation and for the website structure.
 
 * [Oper Data](https://operdata.com.br/data-science/cases-e-clientes/) - inspiration for Success Cases content.
 
-* [Indicium] (https://blog.indicium.tech/4-etapas-consultoria-data-science/) - inspiration for data science content.
+* [Indicium](https://blog.indicium.tech/4-etapas-consultoria-data-science/) - inspiration for data science content.
 
 * [Tiny PNG](https://tinypng.com/) - to compress images.
 
-* [W3Schools](https://www.w3schools.com/)to reinforce learning about coding concepts.
+* [W3Schools](https://www.w3schools.com/) - to reinforce learning about coding concepts.
 
-* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14) inspiration for the header - navigation bar with hamburguer menu. 
+* [Youtube Professor Jose de Assis](https://www.youtube.com/watch?v=SsOuGMM2_yM&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk&index=14) - inspiration for the header - navigation bar with hamburguer menu. 
 
-* [Youtube - Dev Reis Channel](https://www.youtube.com/watch?v=CFmMNuxZ3YY) inspiration for the header - navigation bar with hamburguer menu. 
+* [Youtube - Dev Reis Channel](https://www.youtube.com/watch?v=CFmMNuxZ3YY) - inspiration for the header - navigation bar with hamburguer menu. 
 
 * [Love-Light-Photography](https://github.com/rhiannonmcn/Love-Light-Photography), [Natural Clean](https://github.com/Elvira-94/natural-clean) and [Wawaswoods](https://github.com/EwanColquhoun/wawaswoods) were my inspirations for README structure. 
 
