@@ -154,6 +154,13 @@ Please click on the links below to see the images of the navigation menu:
 
 # Future Features
 
+This website can be improved in the future through new characteristics to be developed:
+
+Blog - A ***blog*** section would be very relevant to potential customers get to know the thoughts and tendencies for the field as well as to increase the online presence of the business consulting company.
+
+
+
+
 # Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML#HTML_5) - to provide the content and structure for the website.
