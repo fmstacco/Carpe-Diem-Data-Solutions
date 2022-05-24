@@ -249,10 +249,7 @@ Type: git clone + https://github.com/fmstacco/Carpe-Diem-Data-Solutions.git
 Help on cloning a repository from GitHub can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 
-
-
-
-[Back to top](<#contents>)
+clo[Back to top](<#contents>)
 
 # Credits 
 
@@ -262,3 +259,6 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 # Acknowledgements
 
+This site, Carpe Diem Digital Solutions was designed and developed for Portfolio 1 project, a requirement of Full Stack Software Developer Diploma Course (Eccommerce) at the [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my Cohort facilitators [Kasia Bogucka](https://www.linkedin.com/in/kasbogucka/) and [Kenan Wright](https://se.linkedin.com/in/kenan-wright-bb0359b8), my Cohort coleagues, the Slack community and the Student care for all support during this journey.
+
+Fabiana Tacco (2022)
