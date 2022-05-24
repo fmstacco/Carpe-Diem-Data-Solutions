@@ -154,9 +154,13 @@ Please click on the links below to see the images of the navigation menu:
 
 # Future Features
 
-This website can be improved in the future through new characteristics to be developed:
+This website can be improved in the future through new features to be developed:
 
 Blog - A ***blog*** section would be very relevant to potential customers get to know the thoughts and tendencies for the field as well as to increase the online presence of the business consulting company.
+
+Content Marketing - a future improvement for the whole website is to structure the content based in ***content marketing*** language to involve the potential client and direct them to perform the call to the action. Hiring a specialist in content marketing would be beneficial. 
+
+Success cases - expand the success case section by highlighting the challenges and solutions after going through our consultancy. Perhaps one page dedicated to the success case section with cards for each success case.
 
 
 
