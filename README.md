@@ -197,6 +197,20 @@ Acessibility validation image
 
 # Deployment 
 
+### **To deploy this project**
+
+This website was deployed to Github by following the steps below:
+
+1. In the Github repository for this project navigate to the ***settings*** tab.
+2. On the left side of the page, scroll down and navigate to the ***pages*** tab.
+3. Under the ***source*** tab, select the branch called ***main*** and select the folder called ***root***.
+4. 
+
+
+  
+
+
+
 # Credits 
 
 ## Content
