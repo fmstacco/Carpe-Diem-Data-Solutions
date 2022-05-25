@@ -226,7 +226,7 @@ a:hover {
 
                 .benefits-section {
                     background-color: var(--dark);
-                    min-height: 35rem;   
+                    min-height: 50rem;   
 
 
                 }
@@ -314,7 +314,7 @@ a:hover {
                 }
                 
                 .button {
-                    margin-top: 10%;
+                    margin: 5%;
                     text-align: center;
                 }
                 
@@ -398,20 +398,26 @@ a:hover {
     /* Section About*/
 
 
-   #about-container {
+    #about-section {
+        background-color: var(--dark);
+        min-height: 40rem;        
+
+    }
+
+
+   .about-container {
         display: flex;
         align-items: center;
         flex-direction: column;
         background-color: var(--dark);
-        height: 100vh;
-        
+        min-height: 30rem;        
     }
 
    
     .about-headline {
         color: var(--cream);
-        text-align: left;
-        padding-top: 5rem;
+        text-align: center; 
+        padding-top: 2rem;
         padding-left: 0.5rem;
         margin-bottom: 0.5rem;
         font-size: 2rem;
@@ -420,15 +426,15 @@ a:hover {
     .about-headline-2 {
         color: var(--cream);
         font-size: 1.5rem;
-        text-align: left;
+        text-align: center;
         padding-left: 0.5rem;
         margin-bottom: 0.5rem;
     }
 
     .about-text {
         color: var(--cream);
-        text-align: left;
-        line-height: normal;
+        text-align: center;
+        line-height: center;
         padding: 0.5rem;
         font-size: 1rem;
         
@@ -443,7 +449,7 @@ a:hover {
       
     
       @media screen and (min-width: 1024px) {
-        #about-container {
+        .about-container {
             display: flex;
             flex-direction: row-reverse;
             align-items: center;
@@ -460,6 +466,32 @@ a:hover {
 .about-text {
     width: 60%;
     margin-bottom: 1rem;
+}
+
+.about-headline {
+    color: var(--cream);
+    text-align: left;
+    padding-top: 2rem;
+    padding-left: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+}
+
+.about-headline-2 {
+    color: var(--cream);
+    font-size: 1.5rem;
+    text-align: left;
+    padding-left: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.about-text {
+    color: var(--cream);
+    text-align: left;
+    line-height: normal;
+    padding: 0.5rem;
+    font-size: 1rem;
+    
 }
                 }
 
@@ -513,12 +545,12 @@ a:hover {
   
 }
 
-.button-services {
+.button-dark {
     margin: 5%;
     text-align: center;
 }
 
- .button-services a {
+ .button-dark a {
     text-decoration: none;
     padding: 0.5rem 1.5rem; 
     background-color: var(--dark);
@@ -529,7 +561,7 @@ a:hover {
 
 }
 
- .button-services a:hover {
+ .button-dark a:hover {
     color:var(--dark);
     background-color: var(--grey);
     transition: 1s ease;
@@ -570,7 +602,7 @@ a:hover {
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    height: 100vh;   
+    min-height: 40rem;
     background-color: var(--cream);
 
 }
@@ -777,6 +809,7 @@ margin-bottom:0.5rem;
     background-color: var(--dark);
     color: var(--cream);
     text-align: center;
+    padding: 0.3rem;
     }
 
     @media screen and (min-width: 1024px) {
