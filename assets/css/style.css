@@ -468,7 +468,7 @@ a:hover {
 
 
 .section-services {
-    height: 100vh;
+    min-height: 50rem;
 }
 
 
@@ -481,13 +481,14 @@ a:hover {
 }
 
 .section-services-headline {
-    margin-top: 5rem;
     text-align: center;
     font-size: 1.5rem;
     text-transform:capitalize;
-    padding-top: 5rem;
+    padding: 1.25rem;
 
 }
+
+
 
 
 .image-services1 {
@@ -505,6 +506,31 @@ a:hover {
   
 }
 
+.button-services {
+    margin: 5%;
+    text-align: center;
+}
+
+ .button-services a {
+    text-decoration: none;
+    padding: 0.5rem 1.5rem; 
+    background-color: var(--dark);
+    border-radius: 2.5rem;
+    color: var(--cream);
+    font-size: 1rem;
+    letter-spacing:0.1rem;
+
+}
+
+ .button-services a:hover {
+    color:var(--dark);
+    background-color: var(--grey);
+    transition: 1s ease;
+    border: 0.2rem var(--cream) solid;
+}
+
+
+
 @media screen and (min-width: 1024px) {
     
       .services-container{
@@ -518,7 +544,7 @@ a:hover {
     .services-item {
         width: 25%;
         margin-bottom: 5rem;
-        margin-top: 2rem;
+        margin-top: 7rem;
 
     }
 
