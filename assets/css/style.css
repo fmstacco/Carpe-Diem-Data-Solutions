@@ -5,8 +5,8 @@
 :root {
     --cream:#f7f6f5;
     --dark: #020814;
-    --yellow:#fad02c;
-    --rose: #e6c2bf;
+    --yellow:#f3f5f9;
+    --grey: #e6e2e0;
     --gold:#b88917;
 }
 * {
@@ -116,7 +116,7 @@ a:hover {
    }
 
    a:hover {
-    color: var(--rose);
+    color: var(--grey);
     transition: ease-in;
       }
    
@@ -428,7 +428,7 @@ a:hover {
       }
       
       button:hover {
-        background-color: var(--rose);
+        background-color: var(--grey);
         border: 2px solid var(--dark);
         cursor:pointer;
       }
@@ -550,7 +550,7 @@ a:hover {
   }
 
   .success-cases-text-headline:hover {
-        background-color: var(--rose);
+        background-color: var(--grey);
         color: var(--dar);   
     }
 
@@ -700,7 +700,7 @@ margin-bottom:0.5rem;
 }
 
 .footer-navbar a:hover {
-   color: var(--rose);
+   color: var(--grey);
    transition: ease-in;
 
 }
@@ -718,7 +718,7 @@ margin-bottom:0.5rem;
 }
 
 .footer-social-links a:hover {
-    color: var(--rose);
+    color: var(--grey);
     transition: ease-in;
 }
     
@@ -749,6 +749,19 @@ margin-bottom:0.5rem;
 
     /*Contact page*/
 
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-align: center;
+
+    padding-top: 2rem;
+    padding-bottom: rem;
+}
+
+
+
    
     .form-container {
         width: 87%;
@@ -760,7 +773,7 @@ margin-bottom:0.5rem;
         padding:0.8rem;
         margin:0.5rem auto;
         border-radius: 5%;
-        background-color: var(--rose);
+        background-color: var(--grey);
     }
     
     .field {
@@ -792,7 +805,8 @@ margin-bottom:0.5rem;
 
         .formbutton:hover {
             color:#f7f0ef;
-            background-color:var(--rose);
+            background-color:var(--grey);
+            color: var(--dark);
             transition: 1s ease;
         }
     

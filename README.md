@@ -16,6 +16,7 @@ Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Da
     * [Wireframes](<#wireframes>)
     * [Site Structure](<#site-structure>)
     * [Design Choices](<#design-choices>)
+    *  [Logo](<#logo>
     *  [Typography](<#typography>)
     *  [Colour Scheme](<#colour-scheme>)
 * [**Features**](<#features>)
