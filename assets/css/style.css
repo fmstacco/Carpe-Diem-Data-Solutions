@@ -246,12 +246,14 @@ a:hover {
                     font-size: 1.5rem;
                     text-transform: capitalize;
                     text-align: center;
-                    padding-top:1.25rem;
+                    padding: 1.25rem;
                     color: var(--cream);              
                 }
 
                 .benefits-headline2 {
-                    color: var(--cream);              
+                    color: var(--cream);    
+                    text-align: center;
+          
 
 
                 }
