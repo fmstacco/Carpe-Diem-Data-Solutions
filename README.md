@@ -138,7 +138,7 @@ Please click on the links below to see the images of the Thank You Page:
 
 <details><summary><b>Thank You Page - Desktop</b></summary>
 
-<img src="./assets/images/readme/thankyou-page.jpg" width="120%" height="120%" alt="Thank You Page for Desktop"></details>
+<p text-align=center><img src="./assets/images/readme/thankyou-page.jpg" width="120%" height="120%" alt="Thank You Page for Desktop"></details></p>
 
 <details><summary><b>Thank You Page - Image Mobile</b></summary>
 
