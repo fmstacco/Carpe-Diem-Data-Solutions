@@ -488,8 +488,15 @@ a:hover {
 
 }
 
+.services-headline2 {
+    padding: 1rem;
+    text-align: center;
+}
 
-
+.services-description {
+    padding: 1rem;
+    text-align: center;
+}
 
 .image-services1 {
     display: block;
