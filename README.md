@@ -1,9 +1,6 @@
 # **_Carpe Diem Data Solutions - Project Portfolio 1 - HTML & CSS_**
 
-![Carpe Diem Data Solutions logo](./assets/images/logo-dark-background.png) 
-
-Carpe Diem Data Solutions is a small business consulting company that offers data analysis, data science and data engineering services. Our target audience through this website
- are small and medium -sized companies that want to improve their performance, profitability and customer services through their data.
+Carpe Diem Data Solutions is a small business consulting company that offers data analysis, data science and data engineering services. Our target audience through this website are small and medium -sized companies that want to improve their performance, profitability and customer services through their data.
 
 Welcome to the live site here: <a href="https://fmstacco.github.io/Carpe-Diem-Data-Solutions/index.html" target="_blank">Carpe Diem Data Solutions</a>
 
@@ -87,6 +84,13 @@ Carpe Diem Data Solutions website has five pages. The [home page](index.html) is
 
 ## Design Choices
 
+ * ### Logo
+
+ The logo was designed on [Canva](https://www.canva.com/en_gb/) version Pro. 
+
+![Carpe Diem Data Solutions logo](./assets/images/logo-dark-background.png) 
+
+
  * ### Typography
  
  The source used throughout the site is Montserrat, as it is a nice font, elegant and also conveys confidence and professionalism. It is very good for UX/UI for having good readability on any device, large x-heigh and is also good for accessibility.
@@ -165,6 +169,7 @@ This website can be improved in the future through new features to be developed:
 
 **Quiz** - develop a quiz for the potential customer to find out what is the maturity level of their company's data department. 
 
+**Logo** - the logo was designed with [Canva](https://www.canva.com/en_gb/) version Pro. As a future enhancement for the brand it is important to have a logo designed for a professional designer. 
 
 # Technologies Used
 
