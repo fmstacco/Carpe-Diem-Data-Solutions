@@ -226,7 +226,8 @@ a:hover {
 
                 .benefits-section {
                     background-color: var(--dark);
-                    height: 100vh;   
+                    min-height: 35rem;   
+
 
                 }
 
@@ -235,9 +236,9 @@ a:hover {
                     align-items: center;
                     justify-content: space-around;
                     flex-direction: column;
-                    height: 100vh;   
                     background-color: var(--dark);
-
+                    min-height: 30rem;  
+                    
                 
                 }
                 
@@ -266,7 +267,7 @@ a:hover {
                     align-items: center;
                     justify-content: space-around;
                     width: 85%;
-                    height: 22rem;
+                    min-height: 20rem;
                     border-radius: 5%;  
                     margin:0.5rem;
                     padding:0.5rem; 
@@ -280,7 +281,7 @@ a:hover {
                     align-items: center;
                     justify-content: space-around;
                     width: 85%;
-                    height: 22rem;
+                    min-height: 20rem;
                     border-radius: 5%;  
                     margin:0.5rem;
                     padding:0.5rem;   
@@ -293,9 +294,8 @@ a:hover {
                     align-items: center;
                     justify-content: space-around;
                     width: 85%;
-                    height: 22rem;
+                    min-height: 20rem;
                     border-radius: 5%; 
-                    margin:0.5rem;
                     padding:0.5rem;
                 
                 
@@ -313,6 +313,29 @@ a:hover {
                     color: var(--cream);
                 }
                 
+                .button {
+                    margin-top: 10%;
+                    text-align: center;
+                }
+                
+                 .button a {
+                    text-decoration: none;
+                    padding: 0.5rem 1.5rem; 
+                    background-color: var(--grey);
+                    border-radius: 2.5rem;
+                    color:var(--dark);
+                    font-size: 1rem;
+                    letter-spacing:0.1rem;
+                
+                }
+                
+                 .button a:hover {
+                    color: var(--cream);
+                    background-color: var(--dark) ;
+                    transition: 1s ease;
+                    border: 0.2rem var(--cream) solid;
+                }
+            
                 
                 @media screen and (min-width: 1024px) {
                 
@@ -417,24 +440,7 @@ a:hover {
       }
 
 
-      button {
-        text-align: center;
-        background-color: var(--cream);
-        color: var(--dark);
-        text-decoration: none;
-        border: 2px solid transparent;
-        font-weight: bold;
-        padding: 0.3rem 0.5rem;
-        border-radius: 1rem;
-        transition: .4s;
-      }
       
-      button:hover {
-        background-color: var(--grey);
-        border: 2px solid var(--dark);
-        cursor:pointer;
-      }
-
     
       @media screen and (min-width: 1024px) {
         #about-container {
@@ -460,6 +466,12 @@ a:hover {
    
 /*Services Section*/
 
+
+.section-services {
+    height: 100vh;
+}
+
+
 .services-container {
     display: flex;
     flex-direction: column;
@@ -469,9 +481,9 @@ a:hover {
 }
 
 .section-services-headline {
-    margin-top: 1rem;
+    margin-top: 5rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-transform:capitalize;
     padding-top: 5rem;
 
@@ -510,8 +522,12 @@ a:hover {
 
     }
 
- 
-                          }
+
+    .section-services-headline {
+        font-size: 2rem;
+
+    }
+                        }
 
 /*Success Cases Section*/
 
