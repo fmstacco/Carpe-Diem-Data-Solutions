@@ -55,8 +55,7 @@ This project aims to deliver a professional website of a business consultancy fo
 * As a potential customer, I want to easily navigate through their website pages so I can quickly get the information that I’m looking for.[navigation bars and buttons].
 * As a potential customer, I want to see what the results my company can achieve after contracting their services. [benefits].
 * As a potential customer, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them. [about us page]
-* As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues. [services page]
-* As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job. [testimonial]
+* As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues. [services page]* As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job. [testimonial]
 * As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me. [thank you page]
 * As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing. [tools]
 
@@ -89,7 +88,8 @@ Carpe Diem Data Solutions website has five pages. The [home page](index.html) is
 ## Design Choices
 
  * ### Typography
-  
+ 
+ The source used throughout the site is Montserrat, as it is a nice font, elegant and also conveys confidence and professionalism. It is very good for UX/UI for having good readability on any device, large x-heigh and is also good for accessibility.
 
  * ### Colour Scheme
 
