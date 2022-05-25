@@ -86,10 +86,9 @@ Carpe Diem Data Solutions website has five pages. The [home page](index.html) is
 
  * ### Logo
 
- The logo was designed on [Canva](https://www.canva.com/en_gb/) version Pro. 
+ The logo was designed on [Canva](https://www.canva.com/en_gb/) version Pro. A machine learning icon was chosen to convey the core concept of business consulting - data analysis and data science.
 
 ![Carpe Diem Data Solutions logo](./assets/images/logo-dark-background.png) 
-
 
  * ### Typography
  
