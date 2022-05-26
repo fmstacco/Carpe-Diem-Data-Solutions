@@ -945,99 +945,6 @@ select {
 }
 
 /*Page About*/
-
-/* Section Meet Our Team*/
-
-.ourteam-section {
-  min-height: 43rem;
-}
-
-.ourteam-headline-text {
-  text-align: center;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-
-}
-
-.ourteam-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  flex-direction: column;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-.ourteam-headline2 {
-  text-align: center;
-  padding: 0.5rem;
-}
-
-.ourteam-headline3 {
-  text-align: center;
-}
-
-.ourteam-description {
-  text-align: center;
-  padding: 1rem;
-  margin-bottom: 1rem;
-}
-
-.img-meetourteam {
-  display: block;
-  width: 60%;
-  padding-left: 5rem;;
-}
-
-@media screen and (min-width: 1024px) {
- 
- 
-  .ourteam-section {
-    min-height: 44.0rem;
-
-  }
- 
-
-  .ourteam-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    flex-direction: row;
-    max-width: 100%;
-    min-height: 35rem;
-    padding-left: 7rem;
-  }
-
-  .ourteam-box1 {
-    display: flex;
-    width: 25%;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
-  .ourteam-box2 {
-    display: flex;
-    width: 25%;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
-
-  .ourteam-box3 {
-    display: flex;
-    width: 25%;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
-
-  .img-meetourteam {
-    display: block;
-    padding-left: 1rem;;
-
-  }
-}
-
 /*Page About - About Section*/
 
 .aboutpage-section {
@@ -1119,3 +1026,99 @@ select {
     font-size: 1rem;
   }
 }
+
+/* Section Meet Our Team*/
+
+.ourteam-section {
+  min-height: 44rem;
+}
+
+.ourteam-headline-text {
+  text-align: center;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+
+}
+
+.ourteam-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  max-width: 100%;
+  margin: 0 auto;
+  min-height: 35rem;
+
+  
+}
+
+.ourteam-headline2 {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.ourteam-headline3 {
+  text-align: center;
+}
+
+.ourteam-description {
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.img-meetourteam {
+  display: block;
+  width: 60%;
+  padding-left: 5rem;;
+}
+
+@media screen and (min-width: 1024px) {
+ 
+ 
+  .ourteam-section {
+    min-height: 44.0rem;
+
+  }
+ 
+
+  .ourteam-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    max-width: 100%;
+    min-height: 35rem;
+    padding-left: 7rem;
+  }
+
+  .ourteam-box1 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .ourteam-box2 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .ourteam-box3 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .img-meetourteam {
+    display: block;
+    padding-left: 1rem;;
+
+  }
+}
+
