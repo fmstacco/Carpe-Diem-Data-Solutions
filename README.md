@@ -349,9 +349,15 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png) logo python - section tools.
 
-* [R Logo](https://www.r-project.org/)
+* [R Logo](https://www.r-project.org/) logo R for the section tools on Services page.
 
+* [Jupyter Logo](https://jupyter.org/)logo Jupyter for the section tools on Services page.
 
+* [Tableau Logo](https://www.tableau.com/about/media-kit/brand-assets)logo Tableau for the section tools on Services page.
+
+* [Power Bi Logo](https://powerbi.microsoft.com/en-us/)logo Power Bi for the section tools on Services page.
+
+* []
 
 
 [Back to top](<#contents>)
