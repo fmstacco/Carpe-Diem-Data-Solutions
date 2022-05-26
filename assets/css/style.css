@@ -941,6 +941,8 @@ select {
   margin: 0 auto;
 }
 
+
+
 .img-meetourteam {
   display: block;
   width: 50%;
@@ -951,7 +953,6 @@ select {
  
   .ourteam-section {
     min-height: 40.0rem;
-    background-color: var(--grey);
 
   }
  
@@ -961,10 +962,32 @@ select {
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
-    width: 100%;
+    max-width: 100%;
     min-height: 37.5rem;
     padding-left: 7rem;
-    background-color: var(--grey);
+  }
+
+  .ourteam-box1 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .ourteam-box2 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .ourteam-box3 {
+    display: flex;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
   }
 
   .img-meetourteam {
