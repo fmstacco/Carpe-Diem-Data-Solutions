@@ -342,6 +342,101 @@ a:hover {
   }
 }
 
+/*Services Section*/
+
+.section-services {
+  min-height: 38rem;
+}
+
+.services-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-services-headline {
+  text-align: center;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  padding: 1.25rem;
+}
+
+.services-headline2 {
+  padding: 1rem;
+  text-align: center;
+}
+
+.services-description {
+  padding: 1rem;
+  text-align: center;
+}
+
+.image-services1 {
+  display: block;
+  width: 100%;
+}
+
+.image-services2 {
+  display: block;
+  width: 100%;
+
+}
+
+.image-services3 {
+  display: block;
+  width: 100%;
+
+}
+
+.button-dark {
+  margin: 5%;
+  text-align: center;
+}
+
+.button-dark a {
+  text-decoration: none;
+  padding: 0.5rem 1.5rem;
+  background-color: var(--dark);
+  border-radius: 2.5rem;
+  color: var(--cream);
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
+.button-dark a:hover {
+  color: var(--dark);
+  background-color: var(--grey);
+  transition: 1s ease;
+  border: 0.2rem var(--dark) solid;
+}
+
+@media screen and (min-width: 1024px) {
+  .services-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .services-item {
+    width: 25%;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+  }
+
+  .section-services-headline {
+    font-size: 2rem;
+  }
+
+  .button-dark {
+    margin: 0.1%;
+    text-align: center;
+  }
+}
+
 /* Section About*/
 
 .about-section {
@@ -442,100 +537,7 @@ a:hover {
   }
 }
 
-/*Services Section*/
 
-.section-services {
-  min-height: 38rem;
-}
-
-.services-container {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.section-services-headline {
-  text-align: center;
-  font-size: 1.5rem;
-  text-transform: capitalize;
-  padding: 1.25rem;
-}
-
-.services-headline2 {
-  padding: 1rem;
-  text-align: center;
-}
-
-.services-description {
-  padding: 1rem;
-  text-align: center;
-}
-
-.image-services1 {
-  display: block;
-  width: 100%;
-}
-
-.image-services2 {
-  display: block;
-  width: 100%;
-
-}
-
-.image-services3 {
-  display: block;
-  width: 100%;
-
-}
-
-.button-dark {
-  margin: 5%;
-  text-align: center;
-}
-
-.button-dark a {
-  text-decoration: none;
-  padding: 0.5rem 1.5rem;
-  background-color: var(--dark);
-  border-radius: 2.5rem;
-  color: var(--cream);
-  font-size: 1rem;
-  letter-spacing: 0.1rem;
-}
-
-.button-dark a:hover {
-  color: var(--dark);
-  background-color: var(--grey);
-  transition: 1s ease;
-  border: 0.2rem var(--dark) solid;
-}
-
-@media screen and (min-width: 1024px) {
-  .services-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-
-  .services-item {
-    width: 25%;
-    margin-bottom: 4rem;
-    margin-top: 2rem;
-  }
-
-  .section-services-headline {
-    font-size: 2rem;
-  }
-
-  .button-dark {
-    margin: 0.1%;
-    text-align: center;
-  }
-}
 
 /*Success Cases Section*/
 
@@ -544,7 +546,7 @@ a:hover {
   align-items: center;
   justify-content: space-around;
   flex-direction: column;
-  min-height: 40rem;
+  min-height: 30rem;
   background-color: var(--cream);
 }
 
@@ -568,7 +570,6 @@ a:hover {
   width: 80%;
   margin: 0 auto;
   font-size: 1.5rem;
-  padding: 1rem;
   border-radius: 30%;
 }
 
@@ -583,7 +584,7 @@ a:hover {
   align-items: center;
   justify-content: space-around;
   width: 85%;
-  height: 22rem;
+  height: 21rem;
   border-radius: 5%;
   margin: 0.5rem;
   padding: 0.5rem;
@@ -597,7 +598,7 @@ a:hover {
   align-items: center;
   justify-content: space-around;
   width: 85%;
-  height: 22rem;
+  height: 21rem;
   border-radius: 5%;
   margin: 0.5rem;
   padding: 0.5rem;
@@ -611,7 +612,7 @@ a:hover {
   align-items: center;
   justify-content: space-around;
   width: 85%;
-  height: 22rem;
+  height: 21rem;
   border-radius: 5%;
   margin: 0.5rem;
   padding: 0.5rem;
@@ -643,7 +644,7 @@ a:hover {
     text-transform: capitalize;
     letter-spacing: 0.1rem;
     font-weight: bold;
-    margin-top: 5rem;
+    margin-top: 2rem;
     background-color: var(--dark);
     color: var(--cream);
     width: 30%;
