@@ -384,6 +384,8 @@ a:hover {
 
 #about-image {
   display: block;
+  width: 100%;
+
 }
 
 @media screen and (min-width: 1024px) {
@@ -465,14 +467,19 @@ a:hover {
 
 .image-services1 {
   display: block;
+  width: 100%;
 }
 
 .image-services2 {
   display: block;
+  width: 100%;
+
 }
 
 .image-services3 {
   display: block;
+  width: 100%;
+
 }
 
 .button-dark {
