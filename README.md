@@ -317,8 +317,9 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Unplash](https://unsplash.com/photos/p5BoBF0XJUA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) to create Meet Our Team section on Page About - Sidharta Rodriguez.
 
-* [Unplash](https://unsplash.com/photos/S3GrMiUhpNU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-to create Meet Our Team section on Page About - Malala Ababuo.
+* [Unplash](https://unsplash.com/photos/S3GrMiUhpNU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) to create Meet Our Team section on Page About - Malala Ababuo.
+
+* [Unplash](https://unsplash.com/photos/Oalh2MojUuk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) to create About section Home Page and Page About. 
 
 [Back to top](<#contents>)
 
