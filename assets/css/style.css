@@ -941,7 +941,10 @@ select {
   margin: 0 auto;
 }
 
-
+.ourteam-description {
+  text-align: center;
+  padding: 1rem;
+}
 
 .img-meetourteam {
   display: block;
