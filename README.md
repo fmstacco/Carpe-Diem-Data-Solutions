@@ -128,6 +128,11 @@ Please click on the links below to see the images of the navigation menu:
 
 <img src="./assets/images/readme/homepage-image.jpg" width="100%" height="100%" alt="Home Page image">
 
+<details><summary><b>Mobile Home Page Image</b></summary>
+
+<img src="./assets/images/readme/homepage-image-mobile.jpg" width="120%" height="120%" alt="Mobile Home Page Image"></details>
+
+[Back to top](<#contents>)
 
 ## About Page
 
