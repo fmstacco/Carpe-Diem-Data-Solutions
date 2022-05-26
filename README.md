@@ -130,7 +130,7 @@ Please click on the links below to see the images of the navigation menu:
 
 <details><summary><b>Mobile Home Page Image</b></summary>
 
-<img src="./assets/images/readme/homepage-image-mobile.jpg" width="80%" height="80%" alt="Mobile Home Page Image"></details>
+<img src="./assets/images/readme/homepage-image-mobile.jpg" alt="Mobile Home Page Image"></details>
 
 [Back to top](<#contents>)
 
