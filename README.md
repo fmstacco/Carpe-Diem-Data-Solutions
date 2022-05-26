@@ -132,12 +132,20 @@ Please click on the links below to see the images of the navigation menu:
 
 <img src="./assets/images/readme/homepage-image-mobile.jpg" alt="Mobile Home Page Image"></details>
 
+[Back to Home Page](<#home-page>)
 [Back to top](<#contents>)
 
 ## About Page
 
 <img src="./assets/images/readme/aboutpage-image.jpg" width="100%" height="100%" alt="About Page image">
 
+<details><summary><b>Mobile About Page Image</b></summary>
+
+<img src="./assets/images/readme/aboutpage-image-mobile.jpg" alt="Mobile About Page Image"></details>
+
+
+[Back to About Page](<#about-page>)
+[Back to top](<#contents>)
 
 ## Services Page
 
