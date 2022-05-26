@@ -379,7 +379,6 @@ a:hover {
 .about-text {
   color: var(--cream);
   text-align: center;
-  line-height: center;
   padding: 0.5rem;
   font-size: 1rem;
 }
@@ -735,7 +734,6 @@ a:hover {
   text-align: center;
 
   padding-top: 2rem;
-  padding-bottom: rem;
 }
 
 .form-container {
