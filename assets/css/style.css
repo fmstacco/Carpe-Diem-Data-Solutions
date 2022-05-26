@@ -1269,3 +1269,41 @@ select {
       text-align: center;
 
     }
+
+    @media screen and (min-width: 1024px) {
+      .tools-section {
+        min-height: 38rem;
+      }
+
+      .tools-headline {
+        text-align: center;
+        font-size: 2rem;
+        text-transform: capitalize;
+        padding-top: 3rem;
+      }
+
+      .tools-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: row;
+        min-height: 35rem;
+        }
+
+        
+    
+        .logo-link{
+          text-align: center;
+          width: 30%;
+   
+        }
+
+        .logo-link:hover{
+          background-color: transparent;
+    
+        }
+
+
+    }
+
+
