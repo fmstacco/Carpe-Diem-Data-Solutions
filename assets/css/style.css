@@ -344,9 +344,9 @@ a:hover {
 
 /* Section About*/
 
-#about-section {
+.about-section {
   background-color: var(--dark);
-  min-height: 35rem;
+  min-height: 38rem;
 }
 
 .about-container {
@@ -359,7 +359,7 @@ a:hover {
 .about-headline {
   color: var(--cream);
   text-align: center;
-  padding-top: 2rem;
+  padding-top: 1rem;
   padding-left: 0.5rem;
   margin-bottom: 0.5rem;
   font-size: 2rem;
@@ -380,16 +380,16 @@ a:hover {
   font-size: 1rem;
 }
 
-#about-image {
+.about-image {
   display: block;
-  width: 120%;
+  width: 100%;
 
 }
 
 @media screen and (min-width: 1024px) {
 
   .about-section {
-    min-height: 25rem;
+    min-height: 35rem;
 
   }
 
@@ -406,7 +406,7 @@ a:hover {
   }
 
 
-  #about-image {
+  .about-image {
     width: 40%;
     margin-left: 20rem;
   }
