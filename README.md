@@ -45,8 +45,8 @@ This project aims to deliver a professional website of a business consultancy fo
 
 ## Target Audience
 
-*Users (potential customers) who are looking for data analysis and data science services to leverage their business.
-*Users (potential customers) who want to implement a data strategy in their business to increase profitability and improve customer services.
+* Users (potential customers) who are looking for data analysis and data science services to leverage their business.
+* Users (potential customers) who want to implement a data strategy in their business to increase profitability and improve customer services.
 
 ## User Stories
 
@@ -100,7 +100,6 @@ Carpe Diem Data Solutions website has five pages. The [home page](index.html) is
 
 Colour Palette image
 
-
 <img src="./assets/images/readme/color-palette.jpg" width="80%" height="80%" alt="Colour Palette image">
 
 # Features
@@ -126,6 +125,9 @@ Please click on the links below to see the images of the navigation menu:
 <img src="./assets/images/readme/nav-bar-mobile.jpg" width="50%" height="50%" alt="Bar Navigation Section Image Mobile"></details>
 
 ## Home Page
+
+<img src="./assets/images/readme/homepage-image.jpg" width="80%" height="80%" alt="Home Page image">
+
 
 ## About Page
 
