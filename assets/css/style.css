@@ -950,7 +950,7 @@ select {
   }
 }
 
-/*Page About*/
+
 /*Page About - About Section*/
 
 .aboutpage-section {
@@ -1002,12 +1002,12 @@ select {
   }
 
   .aboutpage-image {
-    width: 30%;
-    margin-left: 5rem;
+    width: 25%;
+    margin-left: 2rem;
     }
 
   .aboutpage-text-box {
-    width: 30%;
+    width: 25%;
     margin-bottom: 1rem;
   }
 
@@ -1023,6 +1023,8 @@ select {
     text-align: left;
     padding-left: 0.5rem;
     margin-bottom: 0.5rem;
+    padding-top: 2rem;
+
   }
 
   .aboutpage-text {
@@ -1095,7 +1097,6 @@ select {
     flex-direction: row;
     max-width: 100%;
     min-height: 35rem;
-    padding-left: 7rem;
   }
 
   .ourteam-box1 {
