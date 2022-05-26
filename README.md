@@ -307,6 +307,7 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Love-Light-Photography](https://github.com/rhiannonmcn/Love-Light-Photography), [Natural Clean](https://github.com/Elvira-94/natural-clean) and [Wawaswoods](https://github.com/EwanColquhoun/wawaswoods) were my inspirations for README structure. 
 
+* [MindTitan](https://mindtitan.com/about/) inspired the structure of Meet Our Team content.   
 
 ## Media
 
