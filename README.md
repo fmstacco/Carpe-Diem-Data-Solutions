@@ -101,7 +101,7 @@ Carpe Diem Data Solutions website has five pages. The [home page](index.html) is
 Colour Palette image
 
 
-<img src="./assets/images/readme/color-palette.jpg" width="100%" height="120%" alt="Colour Palette image">
+<img src="./assets/images/readme/color-palette.jpg" width="80%" height="80%" alt="Colour Palette image">
 
 # Features
 
