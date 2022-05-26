@@ -356,7 +356,6 @@ a:hover {
   align-items: center;
   flex-direction: column;
   background-color: var(--dark);
-  min-height: 30rem;
 }
 
 .about-headline {
@@ -928,8 +927,8 @@ select {
 
 .ourteam-headline-text {
   text-align: center;
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 
 }
 
@@ -1009,5 +1008,87 @@ select {
     display: block;
     padding-left: 1rem;;
 
+  }
+}
+
+/*Page About - About Section*/
+
+.aboutpage-section {
+  background-color: var(--cream);
+  min-height: 25rem;
+
+}
+
+.aboutpage-headline {
+  text-align: center;
+  padding-top: 1.5rem;
+  padding-left: 0.5rem;
+}
+
+.aboutpage-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: var(--cream);
+  min-height: 15rem;
+}
+
+.aboutpage-headline-2 {
+  text-align: center;
+
+}
+
+
+.aboutpage-text {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.aboutpage-image { 
+  display: block;
+  width: 100%;
+
+}
+
+@media screen and (min-width: 1024px) {
+  .aboutpage-container {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 25rem;
+  }
+
+  .aboutpage-image {
+    width: 30%;
+    margin-left: 5rem;
+    }
+
+  .aboutpage-text-box {
+    width: 30%;
+    margin-bottom: 1rem;
+  }
+
+  .aboutpage-headline {
+    text-align: center;
+    padding-top: 2rem;
+    padding-left: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .aboutpage-headline-2 {
+    font-size: 1.5rem;
+    text-align: left;
+    padding-left: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .aboutpage-text {
+    text-align: left;
+    line-height: normal;
+    padding: 0.5rem;
+    font-size: 1rem;
   }
 }
