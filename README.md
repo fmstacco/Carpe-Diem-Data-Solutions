@@ -126,10 +126,13 @@ Please click on the links below to see the images of the navigation menu:
 
 ## Home Page
 
-<img src="./assets/images/readme/homepage-image.jpg" width="80%" height="80%" alt="Home Page image">
+<img src="./assets/images/readme/homepage-image.jpg" width="100%" height="100%" alt="Home Page image">
 
 
 ## About Page
+
+<img src="./assets/images/readme/aboutpage-image.jpg" width="100%" height="100%" alt="About Page image">
+
 
 ## Services Page
 
