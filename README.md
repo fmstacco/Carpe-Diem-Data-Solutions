@@ -312,6 +312,13 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Canva](https://www.canva.com/en_gb/) to design the logo, the color palete and to source images for this website.
 
+* [Unplash](https://unsplash.com/photos/toCKeKuQpL0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) to create Meet Our Team section on Page About - Jane Smith.
+
+* [Unplash](https://unsplash.com/photos/p5BoBF0XJUA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) to create Meet Our Team section on Page About - Sidharta Rodriguez.
+
+* [Unplash](https://unsplash.com/photos/S3GrMiUhpNU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+to create Meet Our Team section on Page About - Malala Ababuo.
+
 [Back to top](<#contents>)
 
 # Acknowledgements

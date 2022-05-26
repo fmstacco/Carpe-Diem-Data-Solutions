@@ -922,92 +922,54 @@ select {
 
 /*Page About*/
 
-/* Section About*/
+/* Section Meet Our Team*/
 
-#about-page-section {
-  background-color: var(--dark);
-  min-height: 50rem;
+.ourteam-section {
+  min-height: 40rem;
 }
 
-.about-container {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  background-color: var(--dark);
-  min-height: 30rem;
-}
-
-.about-headline {
-  color: var(--cream);
+.ourteam-headline-text {
   text-align: center;
   padding-top: 2rem;
-  padding-left: 0.5rem;
-  margin-bottom: 0.5rem;
-  font-size: 2rem;
+
 }
 
-.about-headline-2 {
-  color: var(--cream);
-  font-size: 1.5rem;
-  text-align: center;
-  padding-left: 0.5rem;
-  margin-bottom: 0.5rem;
+.ourteam-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
-.about-text {
-  color: var(--cream);
-  text-align: center;
-  line-height: center;
-  padding: 0.5rem;
-  font-size: 1rem;
-}
-
-#about-image {
+.img-meetourteam {
   display: block;
+  width: 50%;
 }
 
 @media screen and (min-width: 1024px) {
-  .about-container {
+ 
+ 
+  .ourteam-section {
+    min-height: 40.0rem;
+    background-color: var(--grey);
+
+  }
+ 
+
+  .ourteam-container {
     display: flex;
-    flex-direction: row-reverse;
     align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-    height: 30rem;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    min-height: 37.5rem;
+    padding-left: 7rem;
+    background-color: var(--grey);
   }
 
-  #about-image {
-    width: 40%;
-    margin-left: 20rem;
-  }
-
-  .about-text {
-    width: 60%;
-    margin-bottom: 1rem;
-  }
-
-  .about-headline {
-    color: var(--cream);
-    text-align: left;
-    padding-top: 2rem;
-    padding-left: 0.5rem;
-    margin-bottom: 0.5rem;
-    font-size: 2rem;
-  }
-
-  .about-headline-2 {
-    color: var(--cream);
-    font-size: 1.5rem;
-    text-align: left;
-    padding-left: 0.5rem;
-    margin-bottom: 0.5rem;
-  }
-
-  .about-text {
-    color: var(--cream);
-    text-align: left;
-    line-height: normal;
-    padding: 0.5rem;
-    font-size: 1rem;
+  .img-meetourteam {
+    display: block;
   }
 }
