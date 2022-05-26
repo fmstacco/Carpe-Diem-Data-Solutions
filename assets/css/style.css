@@ -414,17 +414,23 @@ a:hover {
 }
 
 @media screen and (min-width: 1024px) {
+  .section-services {
+    min-height: 38rem;
+  }
+
   .services-container {
     display: flex;
     align-items: center;
     justify-content: space-around;
     flex-direction: row;
     flex-wrap: wrap;
+    min-height: 25rem;
+
   }
 
   .services-item {
     width: 25%;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
     margin-top: 2rem;
   }
 
@@ -976,7 +982,7 @@ select {
 
 .aboutpage-text {
   text-align: center;
-  padding: 0.5rem;
+  padding: 1.5rem;
 }
 
 .aboutpage-image { 
@@ -1063,8 +1069,8 @@ select {
 
 .ourteam-description {
   text-align: center;
-  padding: 1rem;
-  margin-bottom: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .img-meetourteam {
