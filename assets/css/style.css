@@ -1237,3 +1237,28 @@ select {
     text-align: center;
      }
     }
+
+    /*Section Tools - Page Services*/
+
+    .tools-section {
+      min-height: 40rem;
+    }
+
+    .tools-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      flex-direction: column;
+      flex-wrap: wrap;
+      min-height: 35rem;
+
+    }
+
+    .image-logo {
+      width: 50%;
+    }
+
+    .logo-link{
+      text-align: center;
+
+    }

@@ -347,6 +347,12 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Unplash(https://unsplash.com/photos/5fNmWej4tAA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) to create section services on Page Services.
 
+* [Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png) logo python - section tools.
+
+* [R Logo](https://www.r-project.org/)
+
+
+
 
 [Back to top](<#contents>)
 
