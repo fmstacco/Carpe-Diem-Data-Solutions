@@ -158,10 +158,11 @@ Please click on the links below to see the ***About Page images for mobile***:
 
 ## Services Page
 
-| As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.| As a visitor I get to know quickly the services I can hire when looking at the sections and pages of the site.**[services page]**|
-| As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients through the success cases section which can relate to the current challenges of my company.**[success cases]**|
-| As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.| As a visitor I can feel more confident when I great systems they use to provide heir services. **[services page]**|
+The services page has been designed to beyond presenting the services and solutions offered also wanted to present the systems used to offer the services.
 
+**Important** The logo of the systems used in the consultancy was included in the "We Use the Best Tools To Serve You" section for the purpose of informational and educational purposes. All images are linked to the internet page about the corresponding companies. And it would only go to a version of the website to the public after having the consent of the respective companies. The credits also were given on the credits section on this README.
+
+There is a call to action with a button for the potential customer book their free consultation session.
 
 ## Contact Page
 
