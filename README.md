@@ -289,11 +289,11 @@ Carpe Diem Digital Business Website was manually tested for his responsiveness w
 
 * Home page - 
     
-    ![W3C Validator test result](assets/readme/bugs-fixed.jpg)
+    ![W3C Validator test result](assets/images/readme/bugs-fixed.jpg)
 
 * Services page
 
-    ![W3C Validator test result](assets/readme/bugs-fixed2.jpg)
+    ![W3C Validator test result](assets/images/readme/bugs-fixed2.jpg)
 
 
 ## Additional Testing
