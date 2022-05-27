@@ -224,9 +224,30 @@ This website can be improved in the future through new features to be developed:
 
 ### Code Validation
 
-HTML validation image 
+The Carpe Diem Digital Business website has gone through intensive tests throughout its pages and sections. The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) were used to validate the CSS and [W3C HTML Validator](https://validator.w3.org/) were used to validate the HTML. Minor errors returned and were fixed and then no errors returned.
 
-![HTML validation image ](./assets/images/readme/w3c-html-validator.jpg) 
+
+**HTML validation** 
+
+* Home Page
+
+![Home Page - HTML validation image ](./assets/images/readme/w3c-html-validator.jpg) 
+
+* About Page
+
+![About page - HTML validation image ](./assets/images/readme/w3c-html-validator-aboutpage.jpg) 
+
+* Services Page
+
+![Services page - HTML validation image ](./assets/images/readme/w3c-html-validator-servicespage.jpg) 
+
+* Contact Page
+
+![Contact page - HTML validation image ](./assets/images/readme/w3c-html-validator-contactpage.jpg) 
+
+* Form Destination Page
+
+![Form Destination page - HTML validation image ](./assets/images/readme/w3c-html-validator-form-destination-page.jpg) 
 
 
 CSS validation image
@@ -240,7 +261,11 @@ Acessibility validation image
 
 ![Acessibility validation image ](./assets/images/readme/a11y-acessibility-validator.jpg) 
 
+### Manual Testing
 
+| Feature     | Expect      | Action        | Result |
+| :---------: | :----------:| :-----------: | :-----:|
+|
 
 
 ### Testing User Stories
