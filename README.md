@@ -281,9 +281,11 @@ Carpe Diem Digital Business Website was manually tested for his responsiveness w
 
 ### Manual Testing
 
-| Feature     | Expect      | Action        | Result |
-| :---------: | :----------:| :-----------: | :-----:|
-|
+The website has been extensively tested in different ways, in addition to automated forms, regarding its features, responsiveness, accessibility, layout, design, texts, buttons and navigation links, form submission on different browsers according to browser testing session.
+
+All images have been optimized, are responsive and have the ***alt*** element described properly for accessibility.
+
+All links are working and have the ***arial-label*** element.
 
 
 ### Testing User Stories
