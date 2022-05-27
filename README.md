@@ -300,7 +300,7 @@ The Carpe Diem Digital Business website was manually tested on these browsers as
 
 ### Bugs Fixed 
 
-
+During the website testing process some smaller errors appeared on the home page and service page and were immediately corrected. The HTML and CSS validation process occurred throughout the construction of the website. In this way, misconceptions as a lack of the **alt** element in the image, image size and  closing tag were corrected quickly.
 
 * Home page 
     
@@ -319,7 +319,8 @@ Acessibility validation image
 
 ![Acessibility validation image ](./assets/images/readme/a11y-acessibility-validator.jpg) 
 
-### Light House
+### Lighthouse
+
 
 
 
