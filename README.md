@@ -250,9 +250,20 @@ The Carpe Diem Digital Business website has gone through intensive tests through
 ![Form Destination page - HTML validation image ](./assets/images/readme/w3c-html-validator-form-destination-page.jpg) 
 
 
-CSS validation image
+**CSS validation image**
 
 ![CSS validation image ](./assets/images/readme/w3c-css-validator.jpg) 
+
+
+### Responsiveness Test
+
+Carpe Diem Digital Business Website was manually tested for his responsiveness with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
+
+|        | Nexus 4/5/6 | Galaxy S5/S6/S7 | iPhone 6--12 | iPad |  Display <1200px | Display >1200px |
+|--------|-------------|-----------------|--------------|------|------------------|-----------------|
+| Render |    pass     |      pass       |     pass     | pass |     pass         |      pass       |
+| Images |    pass     |      pass       |     pass     | pass |     pass         |      pass       |
+| Links  |    pass     |      pass       |     pass     | pass |     pass         |      pass       |
 
 
 ### Acessibility 
@@ -260,6 +271,12 @@ CSS validation image
 Acessibility validation image
 
 ![Acessibility validation image ](./assets/images/readme/a11y-acessibility-validator.jpg) 
+
+### Light House
+
+
+
+
 
 ### Manual Testing
 
