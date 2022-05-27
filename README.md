@@ -56,6 +56,8 @@ This project aims to deliver a professional website of a business consultancy fo
 * As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.
 * As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.
 * As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.
+* As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.
+
 
 [Back to top](<#contents>)
 
@@ -156,7 +158,14 @@ Please click on the links below to see the ***About Page images for mobile***:
 
 ## Services Page
 
+| As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.| As a visitor I get to know quickly the services I can hire when looking at the sections and pages of the site.**[services page]**|
+| As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients through the success cases section which can relate to the current challenges of my company.**[success cases]**|
+| As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.| As a visitor I can feel more confident when I great systems they use to provide heir services. **[services page]**|
+
+
 ## Contact Page
+
+The contact page aimed to present ways that the potential customer has to contact us, whether through the form, telephone, email and address.
 
 <img src="./assets/images/readme/contactpage-image.jpg" width="100%" height="100%" alt="Contact Page image">
 
@@ -171,6 +180,7 @@ Please click on the links below to see ***Contact Page images for mobile***:
 
 ## Thank You Page
 
+The thank you page aimed to present a feedback regarding the form submitted so the potential client can rest assured that we will get in touch quickly to book the 30 minutes freee consultation to discuss their business problem. It contributes for the user experience UX/UI. 
 
 <img src="./assets/images/readme/thankyou-page.jpg" width="100%" height="100%" alt="Thank You Page for Desktop">
 
@@ -216,6 +226,8 @@ This website can be improved in the future through new features to be developed:
 **Quiz** - develop a quiz for the potential customer to find out what is the maturity level of their company's data department. 
 
 **Logo** - the logo was designed with [Canva](https://www.canva.com/en_gb/) version Pro. As a future enhancement for the brand it is important to have a logo designed for a professional designer. 
+
+**Corporate Video**  - as a future feature, a corporate video can be very interesting to increase the confidence of potential customers and their inclination to contact us.
 
 # Technologies Used
 
@@ -302,6 +314,8 @@ All links are working and have the ***arial-label*** element.
 | As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.| As a visitor I get to know quickly the services I can hire when looking at the sections and pages of the site.**[services page]**|
 | As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients through the success cases section which can relate to the current challenges of my company.**[success cases]**|
 | As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.| As a visitor I feel calm to learn that they will contact meu quickly after the feedback I received when submitting the form.**[thank you page]**|
+| As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.| As a visitor I can feel more confident when I great systems they use to provide heir services. **[services page]**|
+
 
 ### Browser Testing
 
