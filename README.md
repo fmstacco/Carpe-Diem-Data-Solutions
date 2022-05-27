@@ -330,14 +330,17 @@ During the website testing process some smaller errors appeared on the home page
 
 ### Acessibility 
 
-Acessibility validation image
+To check the accessibility in color regarding was used the [A11y](https://color.a11y.com/).
 
 ![Acessibility validation image ](./assets/images/readme/a11y-acessibility-validator.jpg) 
 
 ### Lighthouse
 
+This website was also tested on [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) through  Chrome Developer Tools.
 
+It tests each of the pages for ***performance, acessibility, best practices and SEO***
 
+![Lighthouse test results](assets/images/readme/lighhouse-desktop.jpg.png)
 
 
 [Back to top](<#contents>)
