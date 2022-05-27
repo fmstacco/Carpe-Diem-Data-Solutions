@@ -252,7 +252,7 @@ Acessibility validation image
 | As a potential customer, I want to see what the results my company can achieve after contracting their services. | As a visitor thinking of contracting the consultancy services I can easily see the potential results my company can get through the benefits section **[benefits]**. |
 | As a potential customer, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them.| As a visitor I can see the team who do the job and their bio on the page about, section meet our team **[about us page]**|
 | As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.[services page]
-| As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.[testimonial]
+| As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients which can relate to the current challenges of my company.**[testimonial]**|
 | As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.[thank you page]
 | As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.[tools]
 
