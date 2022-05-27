@@ -127,6 +127,8 @@ Please click on the links below to see the images of the navigation menu:
 
 <img src="./assets/images/readme/homepage-image.jpg" width="100%" height="100%" alt="Home Page image">
 
+Please click on the links below to see the Home Page images for mobile:
+
 <details><summary><b>Mobile Home Page Image</b></summary>
 
 <img src="./assets/images/readme/homepage-image-mobile.jpg" alt="Mobile Home Page Image"></details>
@@ -137,6 +139,8 @@ Please click on the links below to see the images of the navigation menu:
 ## About Page
 
 <img src="./assets/images/readme/aboutpage-image.jpg" width="100%" height="100%" alt="About Page image">
+
+Please click on the links below to see the About Page images for mobile:
 
 <details><summary><b>Mobile About Page Image</b></summary>
 
@@ -152,6 +156,8 @@ Please click on the links below to see the images of the navigation menu:
 
 <img src="./assets/images/readme/contactpage-image.jpg" width="100%" height="100%" alt="Contact Page image">
 
+Please click on the links below to see Contact Page images for mobile:
+
 <details><summary><b>Mobile Contact Page Image</b></summary>
 
 <img src="./assets/images/readme/contactpage-image-mobile.jpg" alt="Mobile Contact Page Image"></details>
@@ -162,15 +168,15 @@ Please click on the links below to see the images of the navigation menu:
 ## Thank You Page
 
 
-Please click on the links below to see the images of the Thank You Page:
-
-
 <img src="./assets/images/readme/thankyou-page.jpg" width="100%" height="100%" alt="Thank You Page for Desktop">
+
+Please click on the links below to see the Thank You Page images for mobile:
 
 <details><summary><b>Thank You Page - Image Mobile</b></summary>
 
 <img src="./assets/images/readme/thankyou-page-mobile.jpg" alt="Thank You Page for Mobile"></details>
 
+[Back to Thank You Page](<#thankyou-page>)
 
 ## Footer
 
