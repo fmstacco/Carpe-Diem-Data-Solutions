@@ -50,13 +50,12 @@ This project aims to deliver a professional website of a business consultancy fo
 
 ## User Stories
 
-* As a potential customer, I want to easily navigate through their website pages so I can quickly get the information that I’m looking for.[navigation bars and buttons].
-* As a potential customer, I want to see what the results my company can achieve after contracting their services. [benefits].
-* As a potential customer, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them. [about us page]
-* As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.[services page]
-* As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.[testimonial]
-* As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.[thank you page]
-* As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.[tools]
+* As a potential customer, I want to easily navigate through their website pages so I can quickly get the information that I’m looking for.
+* As a potential customer, I want to see what the results my company can achieve after contracting their services. 
+* As a potential customer, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them. 
+* As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.
+* As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.
+* As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.
 
 [Back to top](<#contents>)
 
@@ -251,10 +250,9 @@ Acessibility validation image
 | As a potential customer, I want to easily navigate through their website pages so I can quickly get the information that I’m looking for. | As a visitor I can easily navigate the website pages and sections, going back and forth through the menu on the header, footer and buttons. **[navigation bars and buttons].**|
 | As a potential customer, I want to see what the results my company can achieve after contracting their services. | As a visitor thinking of contracting the consultancy services I can easily see the potential results my company can get through the benefits section **[benefits]**. |
 | As a potential customer, I want to see the people who are the people doing the job and its credentials, it would increase my confidence towards getting in touch and hiring them.| As a visitor I can see the team who do the job and their bio on the page about, section meet our team **[about us page]**|
-| As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.[services page]
-| As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients which can relate to the current challenges of my company.**[testimonial]**|
-| As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.[thank you page]
-| As a potential customer, I want to see what tools they use when offering their services so I can trust they know what they are doing.[tools]
+| As a potential customer, I want to know what services the company offers so I can quickly understand if they can address my business issues.| As a visitor I get to know quickly the services I can hire when looking at the sections and pages of the site.**[services page]**|
+| As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients through the success cases section which can relate to the current challenges of my company.**[success cases]**|
+| As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.| As a visitor I feel calm to learn that they will contact meu quickly after the feedback I received when submitting the form.**[thank you page]**|
 
 
 
