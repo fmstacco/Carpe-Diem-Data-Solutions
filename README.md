@@ -79,7 +79,7 @@ The wireframes for Carpe Diem Data Solutions website were produced on [Balsamiq]
 
 ## Site Structure
 
-Carpe Diem Data Solutions website has five pages. The [home page](index.html) is the default loading page, [about](about.html), [services](services.html.html) and [contact](contact.html) pages are all accessible from the navigation menu and from the footer menu. The [thank you page](form-destinagion-page.html) is only displayed when the user fill the form on contact page. 
+Carpe Diem Data Solutions website has five pages. The [home page](index.html) is the default loading page, the page [about](about.html), [services](services.html.html) and [contact](contact.html) pages are all accessible from the navigation menu and from the footer menu. The [thank you page](form-destinagion-page.html) is only displayed when the user submitt the form on the contact page. 
 
 [Back to top](<#contents>)
 
@@ -89,7 +89,7 @@ Carpe Diem Data Solutions website has five pages. The [home page](index.html) is
 
  The logo was designed on [Canva](https://www.canva.com/en_gb/) version Pro. A machine learning icon was chosen to convey the core concept of business consulting - data analysis and data science.
 
-![Carpe Diem Data Solutions logo](./assets/images/logo-dark-background.png) 
+![Carpe Diem Data Solutions logo](./assets/images/readme/logo-dark-background.png) 
 
  * ### Typography
  
@@ -105,13 +105,13 @@ Colour Palette image
 
 ## Navigation Menu
 
-*In the header of all the page of the site there is the logo and the navigation menu.
+* In the header of all the page of the site there is the logo and the navigation menu.
 
-*When clicking on the logo the user is directed to the Home page.
+* When clicking on the logo the user is directed to the Home page.
 
-*To improve the user experience there is the hover effect on menu items, which changes the background and font colors.
+* To improve the user experience there is the hover effect on menu items, which changes the background and font colors.
 
-*The header is responsive with the Hamburger menu made only with HTML and CSS inspired by Dev Reis Chanel https://www.youtube.com/watch?v=cfmmnuxz3y
+* The header is responsive with the Hamburger menu made only with HTML and CSS inspired by Dev Reis Chanel https://www.youtube.com/watch?v=cfmmnuxz3y
 
 Please click on the links below to see the images of the navigation menu:
 
