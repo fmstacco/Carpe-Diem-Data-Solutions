@@ -284,7 +284,7 @@ Carpe Diem Digital Business Website was manually tested for his responsiveness w
 | As a potential customer, I want to see how the company has helped other clients it helps me to see how competent they are doing their job.| As a visitor I can understand how the business consultancy has brought solutions to other clients through the success cases section which can relate to the current challenges of my company.**[success cases]**|
 | As a potential customer, I want to know that they will get in touch quickly for a discussion on my business and how can they help me.| As a visitor I feel calm to learn that they will contact meu quickly after the feedback I received when submitting the form.**[thank you page]**|
 
-###Bugs Fixed 
+### Bugs Fixed 
 
 
 * Home page - 
