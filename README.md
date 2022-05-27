@@ -128,7 +128,7 @@ Colour Palette image
 
 * The header is responsive with the Hamburger menu made only with HTML and CSS inspired by Dev Reis Chanel https://www.youtube.com/watch?v=cfmmnuxz3y
 
-Please click on the links below to see the images of the ***navigation menu***:
+Please click on the links below to see the images of the **navigation menu**:
 
 <details><summary><b>Navigation Menu - Image Desktop</b></summary>
 
@@ -144,7 +144,7 @@ In the home page it was aimed to convey confidence and professionalism through t
 
 <img src="./assets/images/readme/homepage-image.jpg" width="100%" height="100%" alt="Home Page image">
 
-Please click on the links below to see the ***Home Page images for mobile***:
+Please click on the links below to see the **Home Page image for mobile**:
 
 <details><summary><b>Mobile Home Page Image</b></summary>
 
@@ -159,7 +159,7 @@ The page about we wanted to present the ethos of Carpe Diem Digital Business as 
 
 <img src="./assets/images/readme/aboutpage-image.jpg" width="100%" height="100%" alt="About Page image">
 
-Please click on the links below to see the ***About Page images for mobile***:
+Please click on the links below to see the **About Page image for mobile**:
 
 <details><summary><b>Mobile About Page Image</b></summary>
 
@@ -191,7 +191,7 @@ The contact page aimed to present ways that the potential customer has to contac
 
 <img src="./assets/images/readme/contactpage-image.jpg" width="100%" height="100%" alt="Contact Page image">
 
-Please click on the links below to see ***Contact Page images for mobile***:
+Please click on the links below to see **Contact Page image for mobile**:
 
 <details><summary><b>Mobile Contact Page Image</b></summary>
 
@@ -206,7 +206,7 @@ The thank you page aimed to present a feedback regarding the form submitted so t
 
 <img src="./assets/images/readme/thankyou-page.jpg" width="100%" height="100%" alt="Thank You Page for Desktop">
 
-Please click on the links below to see the ***Thank You Page images for mobile***:
+Please click on the links below to see the **Thank You Page images for mobile**:
 
 <details><summary><b>Thank You Page - Image Mobile</b></summary>
 
