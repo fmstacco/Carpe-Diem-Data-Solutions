@@ -164,13 +164,13 @@ The services page has been designed to beyond presenting the services and soluti
 
 There is a call to action with a button for the potential customer book their free consultation session.
 
-<img src="./assets/images/readme/servicespage-image.jpg" width="100%" height="100%" alt="Services Page image">
+<img src="./assets/images/readme/services-page.jpg" width="100%" height="100%" alt="Services Page image">
 
 Please click on the links below to see **Services Page image for mobile**:
 
 <details><summary><b>Mobile Services Page Image</b></summary>
 
-<img src="./assets/images/readme/servicespage-image-mobile.jpg" alt="Services Contact Page Image"></details>
+<img src="./assets/images/readme/services-page-mobile.jpg" alt="Services Contact Page Image"></details>
 
 ## Contact Page
 
