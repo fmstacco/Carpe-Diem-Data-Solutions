@@ -357,14 +357,13 @@ Help on cloning a repository from GitHub can be found [here](https://docs.github
 
 * [Power Bi Logo](https://powerbi.microsoft.com/en-us/)logo Power Bi for the section tools on Services page.
 
-* []
 
 
 [Back to top](<#contents>)
 
 # Acknowledgements
 
-This site, Carpe Diem Digital Solutions was designed and developed for Portfolio 1 project, a requirement of Full Stack Software Developer Diploma Course (Eccommerce) at the [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my Cohort facilitators [Kasia Bogucka](https://www.linkedin.com/in/kasbogucka/) and [Kenan Wright](https://se.linkedin.com/in/kenan-wright-bb0359b8), my Cohort coleagues, the Slack community and the Student care for all support during this journey.
+This site, Carpe Diem Digital Solutions was designed and developed for Portfolio 1 project, a requirement of Full Stack Software Developer Diploma Course (Eccommerce) at the [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), my Cohort facilitators [Kasia Bogucka](https://www.linkedin.com/in/kasbogucka/) and [Kenan Wright](https://se.linkedin.com/in/kenan-wright-bb0359b8), my Cohort coleagues, the Slack community and the Student care for all support during this journey. I am thankful to the ***Mayo, Sligo and Leitrim Education Training Board (msletb)*** for this opportunity. I  would also like to say thank you to my family, my husband Michel and my children, Alanna, and Peter who is just 3 months old at the time of this project submission. 
 
 Fabiana Tacco (2022)
 
