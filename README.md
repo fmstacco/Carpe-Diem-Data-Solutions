@@ -71,11 +71,24 @@ This project aims to deliver a professional website of a business consultancy fo
 
 ## Wireframes
 
-The wireframes for Carpe Diem Data Solutions website were produced on [Balsamiq](https://balsamiq.com).  
+The wireframes for Carpe Diem Data Solutions website were produced on [Balsamiq](https://balsamiq.com). They are of low fidelity as there have been modifications throughout the development of the website. 
 
-![Desktop wireframe image]()
+<details><summary><b>Home Page Wireframe</b></summary>
 
-![Mobile wireframe image]() 
+<img src="./assets/images/readme/wireframe-homepage.png" alt="Home Page Wireframe"></details>
+
+<details><summary><b>About Page Wireframe</b></summary>
+
+<img src="./assets/images/readme/wireframe-aboutpage.png" alt="About Page Wireframe"></details>
+
+<details><summary><b>Services Page Wireframe</b></summary>
+
+<img src="./assets/images/readme/wireframe-servicespage.png" alt="Services Page Wireframe"></details>
+
+<details><summary><b>Contact Page Wireframe</b></summary>
+
+<img src="./assets/images/readme/wireframe-contactpage.png" alt="Contact Page Wireframe"></details>
+
 
 [Back to top](<#contents>)
 
