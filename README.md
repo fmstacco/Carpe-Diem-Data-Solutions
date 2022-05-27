@@ -113,7 +113,7 @@ Colour Palette image
 
 * The header is responsive with the Hamburger menu made only with HTML and CSS inspired by Dev Reis Chanel https://www.youtube.com/watch?v=cfmmnuxz3y
 
-Please click on the links below to see the images of the navigation menu:
+Please click on the links below to see the images of the ***navigation menu***:
 
 <details><summary><b>Navigation Menu - Image Desktop</b></summary>
 
@@ -125,9 +125,11 @@ Please click on the links below to see the images of the navigation menu:
 
 ## Home Page
 
+In the home page it was aimed to convey confidence and professionalism through the sections presented. In addition to information about the benefits of Data Science as well as the services offered, talk about who offers them and some success cases of those who hired the consultancy.
+
 <img src="./assets/images/readme/homepage-image.jpg" width="100%" height="100%" alt="Home Page image">
 
-Please click on the links below to see the Home Page images for mobile:
+Please click on the links below to see the ***Home Page images for mobile***:
 
 <details><summary><b>Mobile Home Page Image</b></summary>
 
@@ -138,9 +140,11 @@ Please click on the links below to see the Home Page images for mobile:
 
 ## About Page
 
+The page about we wanted to present the ethos of Carpe Diem Digital Business as well as the people doing the job and its credentials. In this section it  aimed to convey confidence, professionalism and also competence.
+
 <img src="./assets/images/readme/aboutpage-image.jpg" width="100%" height="100%" alt="About Page image">
 
-Please click on the links below to see the About Page images for mobile:
+Please click on the links below to see the ***About Page images for mobile***:
 
 <details><summary><b>Mobile About Page Image</b></summary>
 
@@ -156,7 +160,7 @@ Please click on the links below to see the About Page images for mobile:
 
 <img src="./assets/images/readme/contactpage-image.jpg" width="100%" height="100%" alt="Contact Page image">
 
-Please click on the links below to see Contact Page images for mobile:
+Please click on the links below to see ***Contact Page images for mobile***:
 
 <details><summary><b>Mobile Contact Page Image</b></summary>
 
@@ -170,7 +174,7 @@ Please click on the links below to see Contact Page images for mobile:
 
 <img src="./assets/images/readme/thankyou-page.jpg" width="100%" height="100%" alt="Thank You Page for Desktop">
 
-Please click on the links below to see the Thank You Page images for mobile:
+Please click on the links below to see the ***Thank You Page images for mobile***:
 
 <details><summary><b>Thank You Page - Image Mobile</b></summary>
 
