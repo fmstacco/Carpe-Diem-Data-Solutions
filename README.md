@@ -157,7 +157,7 @@ Please click on the links below to see the images of the navigation menu:
 <img src="./assets/images/readme/contactpage-image-mobile.jpg" alt="Mobile Contact Page Image"></details>
 
 
-[Back to About Page](<#contact-page>)
+[Back to Contact Page](<#contact-page>)
 
 ## Thank You Page
 
@@ -165,13 +165,11 @@ Please click on the links below to see the images of the navigation menu:
 Please click on the links below to see the images of the Thank You Page:
 
 
-<details><summary><b>Thank You Page - Desktop</b></summary>
-
-<p text-align=center><img src="./assets/images/readme/thankyou-page.jpg" width="120%" height="120%" alt="Thank You Page for Desktop"></details></p>
+<img src="./assets/images/readme/thankyou-page.jpg" width="100%" height="100%" alt="Thank You Page for Desktop">
 
 <details><summary><b>Thank You Page - Image Mobile</b></summary>
 
-<img src="./assets/images/readme/thankyou-page-mobile.jpg" width="50%" height="50%" alt="Thank You Page for Mobile"></details>
+<img src="./assets/images/readme/thankyou-page-mobile.jpg" alt="Thank You Page for Mobile"></details>
 
 
 ## Footer
