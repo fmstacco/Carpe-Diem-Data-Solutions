@@ -1305,15 +1305,12 @@ select {
         .logo-link{
           text-align: center;
           width: 30%;
-   
-        }
+           }
 
         .logo-link:hover{
           background-color: transparent;
     
         }
-
-
     }
 
 
